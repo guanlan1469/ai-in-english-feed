@@ -1,0 +1,26 @@
+Alex: Welcome back to AI in English, the short show where we talk about the biggest AI stories of the week in plain English. I am Alex.
+Jordan: And I am Jordan. Three stories today. Google is taking good models away from free users, Apple is locking the doors against AI agents, and Open AI has a new helper that wants to run your computer. Let us start with Google.
+Alex: Starting October ninth, free Gemini users are losing a lot. Google says that if you do not pay for a Google AI subscription, you will no longer be able to choose the Flash or Pro models. You will only get Flash-Lite, the smallest and weakest option.
+Jordan: So the free tier becomes the Lite tier. What about the cheapest paid plan, AI Plus?
+Alex: AI Plus is losing Pro as well. It keeps Flash-Lite and Flash, but if you want the Pro model, you now need AI Pro, which costs nineteen dollars and ninety-nine cents a month. To soften the blow, AI Pro is gaining a reasoning feature called Deep Think.
+Jordan: This feels like a pricing squeeze. Did Google explain why?
+Alex: Not much, but the direction is clear. Google now measures Gemini usage by computing load instead of counting prompts, and it is preparing low, medium, and high effort settings for October. Smarter models cost more to run, so Google wants the people who use them most to pay more.
+Jordan: For free users, the takeaway is simple. If you want the good models, you will have to pay for them.
+Alex: Story two is about security. Apple is tightening one of the most powerful permissions on the Mac.
+Jordan: You are talking about Full Disk Access.
+Alex: Right. When you grant it to an app, that app can read your files, your email, your messages, and even your browsing history. Apple designed it for backup apps, and now it says some developers are using it in ways users do not fully understand.
+Jordan: And the real target here is AI agents.
+Alex: Apple said it plainly. As AI agents become more capable and autonomous, the risks of this level of access will grow substantially. Going forward, granting Full Disk Access will require what Apple calls very explicit user action. No more sleepwalking through a permission dialog during a quick setup.
+Jordan: This follows that story about Meta's Muse agent, right? A columnist claimed the Muse Mac app read his private messages.
+Alex: Exactly. Meta disputed the claim, but the timing is hard to ignore. There was also an earlier report about a ChatGPT Mac app flaw that could have exposed sensitive data. Apple's move says the age of agents needs a new level of caution.
+Jordan: So if I use a Mac, I should probably check which apps I have already granted Full Disk Access to.
+Alex: That is the smart move. Story three takes us to Open AI, which is going the opposite direction. They are giving agents more control, not less.
+Jordan: Their new platform is called Dot, right?
+Alex: Yes. The Verge got an early look at Dot. It is an AI agent that can operate software like Blender and GIMP inside a virtual machine, reach into your personal computer, and even order dinner for you while it works.
+Jordan: Order dinner? So this is not a chatbot answering questions. This is an agent doing jobs.
+Alex: That is the pitch. The Verge compared it to Codex, but for non-developers. It feels closer to enterprise productivity software than to a consumer assistant. For now, it is limited to top-tier subscribers, and only one Dot per user.
+Jordan: It sounds powerful, and honestly a little risky. If Dot can drive my apps and order my dinner, it can also make my mistakes.
+Alex: Which brings us full circle. Apple is tightening permissions because agents like Dot are exactly the kind of software that would want full access to your computer. One company locks the door, and another one builds a bigger key.
+Jordan: That is a good line. So the theme of this week is control. Who gets to use the best models, who gets to touch your files, and how much power we hand to agents.
+Alex: Exactly. That is our show for today. We will keep watching these stories as they develop.
+Jordan: Thanks for listening. See you next time on AI in English.
