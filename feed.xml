@@ -23,6 +23,52 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI in English, Ep.5: Muse Gadgets, AI Prescriptions, and AI Receipts</title>
+      <description><![CDATA[Alex and Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Meta 的 Muse Gadgets 开源硬件、犹他州批准 AI 开处方、临床 AI 的可验证凭证。
+
+【本期英文全文】
+
+Alex: Welcome back to AI in English, the short show where we talk about the biggest AI stories of the week in plain English. I am Alex.
+Jordan: And I am Jordan. Three stories today, and they all ask the same question. What happens when AI steps out of your chat window and into the physical world?
+Alex: Story one is about Meta. On October second, Meta released something called Muse Gadgets, an open-source project for building your own hardware around Muse, the company's personal AI agent.
+Jordan: So instead of talking to Muse on a phone, you can build your own gadgets for it?
+Alex: Exactly. Meta published firmware for ESP32 boards and a Linux SDK for computers like the Raspberry Pi, all under the Apache 2.0 license. The starter ideas include an e-ink display for your morning briefing, a push-to-talk button, and smart home controls.
+Jordan: That sounds very open. What is the catch?
+Alex: The code is open, but the Muse service is not. Every gadget needs an SDK token from Meta, and right now those tokens are limited to personal, non-commercial projects. You can study and modify the code, but you cannot just start selling Muse gadgets.
+Jordan: Meta also built its own device, right?
+Alex: Yes, the Muse Home Link, a USB-C powered dongle that connects Muse to your home network so it can talk to your TV and speakers. Meta made five thousand of them and is giving them away for free to subscribers in the United States.
+Jordan: Announced by Nat Friedman, the head of product at Meta's Superintelligence Labs.
+Alex: Right. And the strategy is clear. Instead of manufacturing a thousand device types, Meta lets hobbyists build them. Open hardware is a cheap way to put an AI agent into every corner of the physical world.
+Jordan: Story two takes us to a doctor's office, in the state of Utah. On Monday, Utah became the first place in the US to let an AI write first-time prescriptions.
+Alex: The company is called Nolla Health. Utah's Office of AI Policy signed an agreement allowing its AI to prescribe medication for acne, based on a facial scan. The AI builds a personalized treatment plan and makes the prescribing decision itself.
+Jordan: Before this, a licensed clinician had to sign every prescription before it went out. So this is a first?
+Alex: The founder, Luis Wenus, calls it the first end-to-end AI doctor. He previously worked for Worldcoin, Sam Altman's project that scans people's eyes to prove they are human. There are limits. The AI can only prescribe topical acne medication, not isotretinoin, also known as Accutane, and not oral medications.
+Jordan: And the third story is from the same state. Also on Monday, Utah announced that AI systems in its clinical program must generate verifiable AI receipts.
+Alex: That comes from a company called Glacis. Utah will require a cryptographically signed receipt for every covered AI decision, based on an open standard called OVERT. The founder said clinicians and patients need to verify that AI safeguards are actually running.
+Jordan: So as AI starts writing prescriptions, Utah also wants proof behind every decision. One agreement lets AI make medical calls, and the other makes sure those calls leave a paper trail.
+Alex: That is the theme of today's show. AI is leaving the screen. It is moving into physical gadgets, into medical decisions, and into systems designed to keep it honest.
+Jordan: Thanks for listening. We will keep watching these stories as they develop. See you next time on AI in English.
+
+【生词表】
+gadget /ˈɡædʒɪt/ 小装置；小工具
+firmware /ˈfɜːrmwɛər/ 固件
+hobbyist /ˈhɑːbiɪst/ 业余爱好者；发烧友
+the catch /ðə kætʃ/ 隐含的条件；圈套（口语）
+dongle /ˈdɑːŋɡl/ 适配器；USB 外接小设备
+end-to-end /ˌɛnd tuː ˈɛnd/ 端到端的；全流程的
+topical /ˈtɑːpɪkl/ 外用的；局部涂抹的（药物）
+isotretinoin /ˌaɪsoʊtrɛtɪˈnoʊɪn/ 异维 A 酸（治痤疮药物）
+cryptographically /ˌkrɪptəˈɡræfɪkli/ 以密码学方式地；经加密的
+paper trail /ˈpeɪpər treɪl/ 书面记录；可追溯的凭证]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP5.mp3" length="1231535" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-in-english-ep5</guid>
+      <pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
+      <itunes:duration>205</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI in English, Ep.4: Gemini Downgrade, Apple&#x27;s Lock, OpenAI&#x27;s Dot</title>
       <description><![CDATA[Alex and Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Gemini 降级风波、苹果的封闭生态、OpenAI 的新动向。
 
