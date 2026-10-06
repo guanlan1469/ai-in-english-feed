@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>AI in English</title>
     <link>https://github.com/guanlan1469/ai-in-english-feed</link>
@@ -61,6 +62,7 @@ isotretinoin /ˌaɪsoʊtrɛtɪˈnoʊɪn/ 异维 A 酸（治痤疮药物）
 cryptographically /ˌkrɪptəˈɡræfɪkli/ 以密码学方式地；经加密的
 paper trail /ˈpeɪpər treɪl/ 书面记录；可追溯的凭证]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP5.mp3" length="1231535" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP5.txt" type="text/plain" />
       <guid isPermaLink="false">ai-in-english-ep5</guid>
       <pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
       <itunes:duration>205</itunes:duration>
@@ -116,6 +118,7 @@ Jordan: Thanks for listening. See you next time on AI in English.
 - productivity /ˌprɒdʌkˈtɪvəti/ 生产力；生产率
 - full circle /fʊl ˈsɜːkl/ 回到原点；形成闭环]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP4.mp3" length="3770453" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP4.txt" type="text/plain" />
       <guid isPermaLink="false">ai-in-english-ep4</guid>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -171,6 +174,7 @@ Jordan: And I am Jordan. See you next time.
 - depreciation /dɪˌpriːʃiˈeɪʃn/ 贬值
 - lease back /liːs bæk/ （售后）租回]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP3.mp3" length="3884138" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP3.txt" type="text/plain" />
       <guid isPermaLink="false">ai-in-english-ep3</guid>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -220,6 +224,7 @@ Jordan: And I am Jordan. See you next time.
 - co-develop /koʊ dɪˈvel.əp/ 联合开发
 - quarterly revenue /ˈkwɔːr.t̬ɚ.li ˈrev.ən.juː/ 季度营收（revenue = 营收）]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP2.mp3" length="3069954" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP2.txt" type="text/plain" />
       <guid isPermaLink="false">ai-in-english-ep2</guid>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -250,6 +255,7 @@ Jordan: So the pattern this week is clear. The frontier is moving fast, but the 
 Alex: That is our show for today. If you want the written version with vocabulary notes, check the transcript that comes with this episode. I am Alex.
 Jordan: And I am Jordan. See you next time.]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP1.mp3" length="3856135" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP1.txt" type="text/plain" />
       <guid isPermaLink="false">ai-in-english-ep1</guid>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
