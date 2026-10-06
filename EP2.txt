@@ -1,0 +1,20 @@
+Alex: Welcome back to AI in English, the short show where we talk about the biggest AI stories of the week in plain English. I am Alex.
+Jordan: And I am Jordan. This week the money is doing the talking. We will walk through three stories that matter, all from the last few days.
+Alex: First up, the biggest check of the week. Chip giant Broadcom is lining up as much as forty-two billion dollars in chip lease financing for Anthropic. In other words, Anthropic will rent the chips it needs to train and run its Claude models, instead of buying them outright.
+Jordan: Forty-two billion dollars. That is an enormous number. Why lease instead of buy?
+Alex: Because the newest AI chips are wildly expensive, and demand keeps rising. Leasing spreads the cost out over time. For Broadcom, it locks in a huge customer. For Anthropic, it secures the computing power it needs to compete with Open AI and Google without paying for everything up front.
+Jordan: It fits a bigger pattern too. The AI race is no longer just about who has the smartest model. It is about who can get their hands on enough chips.
+Alex: And the chip boom is real. Memory maker Micron just posted record quarterly revenue of fifty-four billion dollars, driven almost entirely by AI demand.
+Jordan: Story two is about how AI is landing in the real workplace. Barclays, the British bank, announced on Thursday that it expects half of its developers to be using Claude Code by the end of twenty twenty-six, and a majority of its software engineers by twenty twenty-seven.
+Alex: That is a big vote of confidence in coding agents. They are using it to write and review code, but the rollout goes further. Barclays says more than sixteen thousand colleagues already use a Claude powered knowledge assistant, and in its markets business the bank routes around one hundred and twenty thousand client emails a day through AI systems.
+Jordan: So this is not a pilot anymore. This is an entire bank changing how its people work.
+Alex: Right. The coding agent that was a fun experiment a year ago is now standard equipment at a global bank.
+Jordan: Story three takes us in the opposite direction, to a company trying to keep AI out. Reddit is shutting down its public API and tightening limits on AI data scraping.
+Alex: The background is simple. AI labs train their models on text scraped from the web, and Reddit is one of the richest sources of human conversation online. Reddit wants to be paid for that data instead of giving it away for free.
+Jordan: So if you run a small app that reads Reddit through the public API, you are out of luck?
+Alex: Basically. Reddit already charges big labs for licensed access, and now it is closing the free door. The company says it wants to protect its users and its business.
+Jordan: This is a growing fight. Publishers, artists, and now Reddit all want a share of the value their data creates for AI models.
+Alex: One more quick one before we go. Open AI is teaming up with chip design company Synopsys to co-develop an AI called GPT Synopsys for designing chips. So AI designing the very chips that run AI. The circle is complete.
+Jordan: A neat way to end the week. That is our show for today.
+Alex: If you want the written version with vocabulary notes, check the transcript that comes with this episode. I am Alex.
+Jordan: And I am Jordan. See you next time.
