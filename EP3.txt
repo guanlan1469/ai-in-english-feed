@@ -1,0 +1,26 @@
+Alex: Welcome back to AI in English, the short show where we talk about the biggest AI stories of the week in plain English. I am Alex.
+Jordan: And I am Jordan. Three big stories today, and two of them broke just yesterday. Let us start in Washington.
+Alex: The White House has created a new task force to examine the risks and opportunities of AI, and to recommend what role the federal government should play in overseeing the technology. The group is called the Super Intelligence Force, and it has one hundred and twenty days to deliver its report.
+Jordan: And who is leading it?
+Alex: Jay Clayton, who heads the Office of the Director of National Intelligence. According to the Wall Street Journal, that effectively makes him President Trump's AI czar.
+Jordan: An AI czar. That is a serious title. So this is Washington finally saying, we need someone in charge here?
+Alex: That is the idea. The task force has to answer the big question: how much should the government regulate AI, and how much should it let the companies run? This comes just days after the White House announced a voluntary safety agreement with six AI giants.
+Jordan: Voluntary. So no penalties if a company does not comply?
+Alex: Exactly. The president called it morally binding, not legally binding. Critics say that is the whole story of this administration. Show concern about AI, but do not slow the industry down.
+Jordan: Story two is a dramatic one. A former Open AI safety employee just quit, and published an essay in the Atlantic titled, I Quit Open AI Because Its Culture Is Broken.
+Alex: Strong words. The author is David Robinson. He spent three and a half years at Open AI, helped draft the company's preparedness framework, and oversaw the safety reports for twelve frontier model launches.
+Jordan: So this is not an outsider. This is someone who worked inside the safety operation.
+Alex: Right. And his argument is simple. The time for trial and error is over. He says Open AI relies on something called iterative deployment, which means shipping systems first and strengthening the safeguards when problems show up.
+Jordan: Release first, fix later. For advanced AI, that sounds risky.
+Alex: That is his point. He argues that AI now needs safeguards more like the ones in nuclear power and aviation, industries where you cannot afford to learn from your mistakes. He also warns that AI capabilities are advancing faster than researchers' understanding of alignment, the field that keeps AI systems in line with human goals.
+Jordan: Open AI must have responded.
+Alex: A spokesperson said the company makes sure its models do not become more capable than they can safely manage, and that they pause training or hold back models when they need to slow down.
+Jordan: Story three takes us to the money side of the AI boom. Amazon is reportedly exploring a deal to move about eight billion dollars worth of advanced Nvidia AI chips into a new company funded by outside investors, and then lease the chips back.
+Alex: It is a classic sell and lease back. Amazon keeps using the chips across its data centers, but the eight billion dollars comes off its balance sheet. The new entity would raise money through debt and sell up to ten percent of its equity to investors.
+Jordan: Why would Amazon do this?
+Alex: Because Amazon alone plans to spend more than two hundred billion dollars in capital expenditure this year, mostly on AI infrastructure. The chips are expensive, and they lose value fast as new versions arrive. This way, Amazon keeps the computing power and shifts the depreciation risk to investors.
+Jordan: And there is more. On Friday, Amazon raised prices by about fifteen percent for renting out some of its Nvidia chips, the EC two capacity blocks, the older A one hundreds included.
+Alex: It is the same financing story we keep seeing. Last week it was Broadcom lining up tens of billions in chip financing for Anthropic. Now Amazon is moving chips off its books to keep building. The AI boom is becoming a financing boom.
+Jordan: That is our show for today. Three stories, one very busy week.
+Alex: If you want the written version with vocabulary notes, check the transcript that comes with this episode. I am Alex.
+Jordan: And I am Jordan. See you next time.
