@@ -23,6 +23,59 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+      <title>AI in English, Ep.7: Petaflop Laptops, a Cheaper Haiku, and Cyber Guards</title>
+      <description><![CDATA[Alex and Jordan 用自然英文聊 3 条 AI 新闻。本期话题：微软×英伟达发布 Surface Laptop Ultra（RTX Spark 超级芯片，2599 美元起售）、Anthropic 发布更便宜的 Claude Haiku 5.5、网络安全验证计划扩大。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. Three big AI stories for you today, and one of them fits in a laptop bag.
+Alex: Let's start there. Yesterday in San Francisco, Microsoft CEO Satya Nadella and Nvidia CEO Jensen Huang shared a stage, and together they pulled the covers off the Surface Laptop Ultra.
+Jordan: That's a 15-inch Windows laptop with a starting price of $2,599. Preorders are open now, and it ships on October 16th.
+Alex: The chip inside is the interesting part. It's called RTX Spark, and it puts a 20-core Arm CPU and a Blackwell GPU on one module, with up to 128GB of unified memory.
+Jordan: Nvidia says it delivers roughly one petaflop of AI performance. To translate that into plain English, this laptop can run AI models with up to 120 billion parameters without ever touching the cloud.
+Alex: And the point isn't just bragging rights. Microsoft wants Windows to become a place where AI agents do real work on your own machine, like writing code or handling a complex business project, instead of sending everything up to a data center.
+Jordan: Microsoft says some of the work that now runs in its expensive Azure data centers can move to these machines, and the customers pay for the hardware, not Microsoft. Sounds like a nice deal for Microsoft.
+Alex: Ha, true. But there's a real safety question here. Agents that can act on their own have already caused trouble, like the hack of the AI hub Hugging Face. So Microsoft also announced Microsoft Execution Containers, a tool that stops agents from grabbing data or doing things they weren't told to do.
+Jordan: And get this: Anthropic, OpenAI, and Nvidia all plan to use it. Nadella said he wanted to make the desktop the most secure place for agents to execute.
+Alex: Asus, Dell, HP, Lenovo, and MSI are shipping their own RTX Spark machines on the same day. Microsoft is even offering up to $1,000 back if you trade in a MacBook Pro. The PC is fighting back.
+Jordan: Story two takes us to Anthropic, which launched Claude Haiku 5.5 yesterday. That's the third model in the Claude 5.5 family in just one month.
+Alex: Haiku is the small, fast, cheap one in the family, built for the unglamorous work: classifying support tickets, summarizing documents, extracting fields from forms, running checks inside a coding agent's loop thousands of times a day.
+Jordan: The price is the headline. It costs $0.10 per million input tokens and $0.50 per million output tokens for prompts under 100,000 tokens. That's 75% cheaper than the previous Haiku 4.5.
+Alex: This launch also comes right as Anthropic is preparing for a planned IPO. And the pricing is a signal that the real fight between the AI labs is moving down to the cheap, high-volume tier, not just the frontier models.
+Jordan: One more detail I liked: it's the first Haiku with built-in safeguards for a narrow set of high-risk cybersecurity requests, though Anthropic says everyday tasks won't be affected.
+Alex: Story three, staying with Anthropic. The company is expanding a program that lets vetted security teams use its most powerful models with fewer safeguards.
+Jordan: This builds on something called Project Glasswing. Partners in that program found at least 129,000 verified software vulnerabilities between April and July of this year. More than 33,000 were rated critical or high severity.
+Alex: The new program is called the Cyber Verification Program, and it has three tiers. The Defense tier covers things like incident response and malware analysis. The Red Team tier allows authorized penetration testing, but only organizations can apply.
+Jordan: And the Specialized tier has the fewest restrictions, reserved for a small group of organizations allowed to test safety-critical systems like power grids, flight systems, and interbank transfer infrastructure.
+Alex: The idea is to let the good guys find the holes before the bad guys do, using the same frontier models that could cause harm in the wrong hands.
+Jordan: That's it for today. A laptop that thinks like a data center, a model that costs pocket change, and the good guys arming up.
+Alex: Keep up with the AI industry in three minutes a day, in English. See you tomorrow.
+
+【生词表】
+superchip /ˈsuːpərˌtʃɪp/ 超级芯片
+petaflop /ˈpetəˌflɒp/ 拍浮点运算（万亿次浮点运算/秒）
+parameter /pəˈræmɪtər/ 参数（衡量模型规模）
+preorder /ˌpriːˈɔːrdər/ 预购；预订
+bragging rights /ˈbræɡɪŋ raɪts/ 吹嘘的资本；炫耀的底气
+safeguard /ˈseɪfɡɑːrd/ 防护机制；保障措施
+vulnerability /ˌvʌlnərəˈbɪləti/ （软件）漏洞；脆弱性
+critical /ˈkrɪtɪkəl/ 严重的（漏洞等级）；关键的
+incident response /ˈɪnsɪdənt rɪˈspɑːns/ 事件响应（网络安全）
+penetration testing /ˌpenəˈtreɪʃən ˈtestɪŋ/ 渗透测试（授权黑客演练）
+tier /tɪr/ 等级；层级
+vetted /ˈvetɪd/ 经过审查的；通过审核的]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP7.mp3" length="4063025" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP7.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep7</guid>
+      <pubDate>Thu, 08 Oct 2026 08:30:00 +0800</pubDate>
+      <itunes:duration>253</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
         <item>
       <title>AI in English, Ep.6: Breach rules, group chats, and an AI interviewer</title>
       <description><![CDATA[Alex and Jordan 用自然英文聊 3 条 AI 新闻。本期话题：澳大利亚 AI 数据泄露披露听证会、Instinct 的群聊智能体、HackerRank 的 AI 面试官 Chakra。
