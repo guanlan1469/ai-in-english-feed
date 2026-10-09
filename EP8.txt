@@ -1,0 +1,35 @@
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+
+Jordan: And I'm Jordan. It's Friday, October 9th, and we've got three big stories: a new AI agent built for the office, twenty billion missing dollars, and three fired researchers with a warning.
+
+Alex: Let's start with Google. Yesterday, Google Cloud introduced something called the Gemini agent. It's a single AI agent for work, and it lives where the work already happens.
+
+Jordan: It works inside Google Workspace apps like Gmail, Docs, Sheets, and Calendar, and it also runs on Microsoft 365 and Slack. The idea is that it plans the work, uses the tools, connects to a company's business systems, and hands back finished work in documents, email, or developer environments.
+
+Alex: The clever bit is how it picks its brain. It chooses the best model for each task, and right now it runs on Google's own Gemini models plus Anthropic's Claude models, with more models to be added later. Google is letting a rival's model drive part of the product.
+
+Jordan: And here's the part that made me blink. Businesses can create so-called coworker agents, AI teammates with their own email address, given access only to the information they are told about. Imagine getting an email from a colleague who was never born.
+
+Alex: Alphabet's shares moved a little on the news. And this lands right in the middle of the agent race. OpenAI launched its always-on Dots agents in September, Meta released its personal agent Muse last month, and now Google is going after the workplace.
+
+Jordan: Story two, and it's about money. The Financial Times reported yesterday that OpenAI's annualized revenue is about $20 billion less than it had previously signaled.
+
+Alex: The paper said OpenAI told investors its revenue was approaching $50 billion on an annualized basis at the end of September, far short of the $70 billion that some media outlets had reported.
+
+Jordan: And the gap may be partly about accounting. The FT said OpenAI's own investors were trying to compare its numbers with Anthropic's annualized revenue, and the two companies count differently. Anthropic includes revenue from sales through cloud partners like AWS and Google Cloud. OpenAI doesn't.
+
+Alex: The report is based on financial documents shared with investors, and Reuters said it couldn't independently verify them. OpenAI didn't respond to a request for comment. But both OpenAI and Anthropic are reportedly preparing to go public, which would give everyone a much clearer view of the books.
+
+Jordan: Story three stays with OpenAI, and it's tense. Three researchers the company fired last week have written to OpenAI's board, asking it to preserve the ability to monitor AI models' reasoning.
+
+Alex: These are Jasmine Wang, Tomek Korbak, and Mikita Balesni. They used to work on safety and alignment research. OpenAI fired them on October 1st, saying an internal investigation found they had mishandled sensitive information, sharing it with an outside AI safety group.
+
+Jordan: The three deny that. They wrote that they don't believe they engaged with outside parties beyond the mandate of their jobs, and they say the firings are chilling those who remain at the company. The Wall Street Journal first reported the letter.
+
+Alex: Their substantive point is about chain of thought, the written record of how an AI model reasons through a problem. Researchers use it to understand increasingly powerful systems. The letter argues that the industry should not pursue developments that make models harder to monitor.
+
+Jordan: OpenAI insists the firings were not about raising safety concerns, and says an internal memo from a research leader strongly agreed with the letter's recommendations. Still, it's an awkward moment for a company whose safety culture is already under scrutiny.
+
+Alex: That's our show. An agent with its own email address, $20 billion in question, and a warning from the people who used to watch the models.
+
+Jordan: Keep up with the AI industry in three minutes a day, in English. See you tomorrow.
