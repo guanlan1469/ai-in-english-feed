@@ -24,6 +24,58 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI in English, Ep.12: Maia 300, Muse Wonder, and the Model Race Odds</title>
+      <description><![CDATA[Alex and Jordan 用自然英文聊 3 条 AI 新闻。本期话题：微软发布第三代自研 AI 芯片 Maia 300；Meta 推出首个前沿级模型 Muse Wonder 系列；预测市场看好谷歌拿下 10 月最强模型。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Tuesday, October 13, and we've got three stories today: Microsoft shows off a home-grown AI chip, Meta makes its first real bid for a frontier model, and the betting markets name a favorite in the model race. Let's get into it.
+Alex: Story one is silicon. On Monday, Microsoft unveiled Maia 300, the third generation of its custom AI chip.
+Jordan: That's the chip Microsoft builds for itself, right?
+Alex: Exactly. According to Reuters, the plan is to deploy potentially more than one million of them next year to back Microsoft's own AI services. And the technical twist: instead of one giant processor like Nvidia's accelerators, the central computing unit is built from chiplets, small specialized chips bonded together, with the key ones made on TSMC's 2-nanometer process.
+Jordan: What does Microsoft claim it can do?
+Alex: A full rack of 96 accelerators is supposed to deliver up to 7 times the token throughput of its predecessor, the Maia 200, and 40% more tokens per megawatt than leading GPU-based systems. Those are Microsoft's own numbers, so take them with a grain of salt. But the direction is unmistakable: every hyperscaler, from Amazon and Google to OpenAI and Anthropic, is now designing its own silicon to loosen Nvidia's grip.
+Jordan: Is the older Maia chip already doing real work?
+Alex: It is. The Maia 200 already runs Microsoft's in-house models and OpenAI models on Azure. Microsoft executive vice president Scott Guthrie says the Maia family will scale to multi-gigawatt deployments starting in 2027. The message is clear: inference, the expensive business of actually answering your questions, is coming home.
+Jordan: Story two: Meta wants a seat at the frontier table. On Monday, Meta's Superintelligence Labs introduced Muse Wonder and Muse Wonder Full.
+Alex: Meta's first real attempt at a frontier-class model. The lab is led by former Scale AI chief executive Alexandr Wang, and the pitch is agentic work: writing software, reviewing legal documents, navigating insurance claims, making sense of someone's finances.
+Jordan: How does it score on independent tests?
+Alex: The independent outfit Artificial Analysis gave Wonder Full 56 points on its Intelligence Index. That ties Anthropic's Claude Sonnet 5.5, and beats OpenAI's GPT-6 Astra, Google's Gemini 4 Argon, and Anthropic's Claude Fable 5.1, which each score 53. Only Anthropic's flagship Claude Opus 5.5 scores higher, at 58. The standard Muse Wonder scores 52.
+Jordan: Close to the top, but not quite the crown. What about price and access?
+Alex: Here is the catch. The standard Wonder is available through Meta's Model API at $4 per million input tokens and $20 per million output tokens, exactly the price of Claude Opus 5.5. The stronger Wonder Full is reserved for paying Muse Code subscribers. And in a real break from the Llama era, neither model comes with downloadable weights. Meta spent years preaching open source. This time, the frontier is paywalled.
+Jordan: Two features worth a mention: Meta says both models have what it calls Active Memory, the ability to hold on to details across a conversation, and Active Focus, the ability to stick with hard problems, try different approaches, and ask follow-up questions.
+Alex: Story three is the scoreboard for all of this. On the prediction market Polymarket, Google now holds a dominant 70% chance of having the top AI model when the month ends on October 31.
+Jordan: Anthropic is down to 23%?
+Alex: 23%, yes, and OpenAI sits under 1%. Here is the fun detail: Meta's odds rose from about 1.5% to 3.5% right after the Muse Wonder debut. The traders are pricing each model launch in real time.
+Jordan: So it is basically sports betting, but for foundation models.
+Alex: Pretty much. A prediction market is not a benchmark, of course; it measures confidence, not capability. Still, it is a neat window into how the industry reads each move, and this month Google is the clear favorite.
+Jordan: That's our three for today: Microsoft's home-grown chip, Meta's frontier bid, and the betting markets calling Google the favorite. Thanks for listening.
+Alex: See you tomorrow, bright and early. Bye for now.
+
+【生词表】
+chiplet /ˈtʃɪplət/ 小芯片，芯片模块
+inference /ˈɪnfərəns/ 推理（模型生成回答的过程）
+throughput /ˈθruːpʊt/ 吞吐量
+deploy /dɪˈplɔɪ/ 部署
+megawatt /ˈmeɡəwɑːt/ 兆瓦
+frontier /frʌnˈtɪr/ 前沿的
+agentic /eɪˈdʒentɪk/ 智能体化的
+benchmark /ˈbentʃmɑːrk/ 基准测试
+proprietary /prəˈpraɪəteri/ 专有的
+odds /ɑːdz/ 赔率；可能性
+cached /kæʃt/ 缓存的
+resolve /rɪˈzɑːlv/ 结算；解决]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP12.mp3" length="4378166" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP12.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep12</guid>
+      <pubDate>Tue, 13 Oct 2026 07:30:00 +0800</pubDate>
+      <itunes:duration>274</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI in English, Ep.11: Kill-Switches, Nvidia's Shopping Trip, and the Money Chill</title>
       <description><![CDATA[Alex and Jordan 用自然英文聊 3 条 AI 新闻。本期话题：微软 CEO Satya Nadella 要求给 AI 装上紧急开关——默认系统已经被攻破；英伟达洽谈收购开源模型初创 Reflection AI；9 月 AI 基建债务发行骤降至 230 亿美元，投资人重新审视数据中心风险。
 
