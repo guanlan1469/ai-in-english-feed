@@ -1,0 +1,23 @@
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Tuesday, October 13, and we've got three stories today: Microsoft shows off a home-grown AI chip, Meta makes its first real bid for a frontier model, and the betting markets name a favorite in the model race. Let's get into it.
+Alex: Story one is silicon. On Monday, Microsoft unveiled Maia 300, the third generation of its custom AI chip.
+Jordan: That's the chip Microsoft builds for itself, right?
+Alex: Exactly. According to Reuters, the plan is to deploy potentially more than one million of them next year to back Microsoft's own AI services. And the technical twist: instead of one giant processor like Nvidia's accelerators, the central computing unit is built from chiplets, small specialized chips bonded together, with the key ones made on TSMC's 2-nanometer process.
+Jordan: What does Microsoft claim it can do?
+Alex: A full rack of 96 accelerators is supposed to deliver up to 7 times the token throughput of its predecessor, the Maia 200, and 40% more tokens per megawatt than leading GPU-based systems. Those are Microsoft's own numbers, so take them with a grain of salt. But the direction is unmistakable: every hyperscaler, from Amazon and Google to OpenAI and Anthropic, is now designing its own silicon to loosen Nvidia's grip.
+Jordan: Is the older Maia chip already doing real work?
+Alex: It is. The Maia 200 already runs Microsoft's in-house models and OpenAI models on Azure. Microsoft executive vice president Scott Guthrie says the Maia family will scale to multi-gigawatt deployments starting in 2027. The message is clear: inference, the expensive business of actually answering your questions, is coming home.
+Jordan: Story two: Meta wants a seat at the frontier table. On Monday, Meta's Superintelligence Labs introduced Muse Wonder and Muse Wonder Full.
+Alex: Meta's first real attempt at a frontier-class model. The lab is led by former Scale AI chief executive Alexandr Wang, and the pitch is agentic work: writing software, reviewing legal documents, navigating insurance claims, making sense of someone's finances.
+Jordan: How does it score on independent tests?
+Alex: The independent outfit Artificial Analysis gave Wonder Full 56 points on its Intelligence Index. That ties Anthropic's Claude Sonnet 5.5, and beats OpenAI's GPT-6 Astra, Google's Gemini 4 Argon, and Anthropic's Claude Fable 5.1, which each score 53. Only Anthropic's flagship Claude Opus 5.5 scores higher, at 58. The standard Muse Wonder scores 52.
+Jordan: Close to the top, but not quite the crown. What about price and access?
+Alex: Here is the catch. The standard Wonder is available through Meta's Model API at $4 per million input tokens and $20 per million output tokens, exactly the price of Claude Opus 5.5. The stronger Wonder Full is reserved for paying Muse Code subscribers. And in a real break from the Llama era, neither model comes with downloadable weights. Meta spent years preaching open source. This time, the frontier is paywalled.
+Jordan: Two features worth a mention: Meta says both models have what it calls Active Memory, the ability to hold on to details across a conversation, and Active Focus, the ability to stick with hard problems, try different approaches, and ask follow-up questions.
+Alex: Story three is the scoreboard for all of this. On the prediction market Polymarket, Google now holds a dominant 70% chance of having the top AI model when the month ends on October 31.
+Jordan: Anthropic is down to 23%?
+Alex: 23%, yes, and OpenAI sits under 1%. Here is the fun detail: Meta's odds rose from about 1.5% to 3.5% right after the Muse Wonder debut. The traders are pricing each model launch in real time.
+Jordan: So it is basically sports betting, but for foundation models.
+Alex: Pretty much. A prediction market is not a benchmark, of course; it measures confidence, not capability. Still, it is a neat window into how the industry reads each move, and this month Google is the clear favorite.
+Jordan: That's our three for today: Microsoft's home-grown chip, Meta's frontier bid, and the betting markets calling Google the favorite. Thanks for listening.
+Alex: See you tomorrow, bright and early. Bye for now.
