@@ -1,0 +1,28 @@
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Thursday, October 15, and we've got three big stories today: Google fires back with a brand new flagship model, a chatbot star goes bankrupt, and London hears the AI labs argue about who wants more rules. Let's get into it.
+Alex: Story one: Google is back in the model race, and it's coming in cheap. On Tuesday, Google launched Gemini 4 Argon, its first big new model since Gemini 3 late last year.
+Jordan: What's the pitch?
+Alex: Two things: muscle and price. Google says Argon ranks number one on the Vals Index, a benchmark covering finance, coding, legal, and tax work. On Artificial Analysis's Intelligence Index, it scores 53, tying GPT-6 Astra, but still trailing Claude Opus 5.5 by about five points.
+Jordan: And the price?
+Alex: That's the headline. $2 per million input tokens, $10 per million output tokens — roughly a fifth of what OpenAI and Anthropic charge for their flagships. Cached input gets 95% off. The catch: it's an introductory price. After November 30, it doubles to $4 and $20, matching Claude Opus.
+Jordan: So it's a promo war.
+Alex: A very deliberate one. Early customers include Deloitte, LexisNexis, Ambience Healthcare, and Isomorphic Labs. Google also says its own engineers, running Argon inside Antigravity, submitted over 35% more agentic code with almost a third fewer rollbacks. And Chrome engineers used it to refactor hundreds of files inside Chromium's 40-million-line codebase.
+Jordan: Who gets it?
+Alex: Developers through the Gemini API, plus Google AI Pro and Ultra subscribers in the Gemini app and AI Mode in Search. Antigravity access needs Ultra. Free users are out of luck for now. One more thing: Google expanded its Fairwind Program, giving vetted cybersecurity defenders a version of Argon with its cyber safeguards removed. Offense research, but in trusted hands.
+Jordan: Story two is a fall from grace. On Monday, Character.AI, once one of the hottest chatbot startups in Silicon Valley, filed for Chapter 11 bankruptcy.
+Alex: The numbers tell the fall. In 2023, a funding round valued it at about a billion dollars. In 2024, Google paid $2.7 billion to license its technology and hire its founders, which Bloomberg translated to a roughly $2.5 billion valuation. Now the company lists assets and liabilities of just $50 to $100 million each.
+Jordan: Who wants what's left?
+Alex: Disney. The company agreed to pay $20 million as a stalking horse bidder — meaning it sets the floor price at auction and other bidders can top it. The deal covers a non-exclusive, perpetual license to certain intellectual property, plus transition services from former Character.AI employees Disney has already hired. That includes former CEO Karandeep Anand, who joined Disney as its first chief technology officer last month.
+Jordan: What brought it down?
+Alex: Mounting operating costs — reportedly $8-$9 million in monthly losses — failed fundraising, leadership departures, and a wave of lawsuits. Families sued after teens were harmed; the company settled five cases earlier this year and banned open-ended chats for users under 18. The sale is expected to close by late November or early December. The platform keeps running for now — but the filing warns it will be wound down if no buyer agrees to operate it.
+Jordan: From a $2.5 billion star to a $20 million fire sale. Ouch.
+Alex: Story three takes us to London. On Tuesday, four frontier labs faced British lawmakers, and on the big question — should AI safety duties be written into law — they split two against two.
+Jordan: Who's on which side?
+Alex: Anthropic was the bluntest. Liam Booth-Smith, Lord Booth-Smith, its head of Europe, Middle East and Africa policy, said the rules should be binding — voluntary commitments are not enough. OpenAI's Tom Duff Gordon landed in a similar place, backing a statutory framework and an international convention, with mandatory incident reporting as the starting point.
+Jordan: And the other two?
+Alex: Google DeepMind's Owen Larter redirected to technical standards. Meta's Rob Sherman redirected to institutions, noting British regulators are, quote, "not writing on a blank page." Neither refused scrutiny — both refused to ask for a statute.
+Jordan: Why does this matter?
+Alex: Because the debate is shifting from whether companies should be careful to whether governments should make them. About 400 scientists have called for an international incident registry. And the timing is spicy: this hearing comes right as the EU's AI Office opens its first enforcement cases against OpenAI and Anthropic. The labs that say "regulate us" and the regulators knocking on their doors are moving toward each other at speed.
+Jordan: Three stories, one theme almost: the AI industry is growing up fast, and the bill is coming due.
+Alex: Well put. That's all for today. The word list and full transcript are on the reading page. I'm Alex.
+Jordan: And I'm Jordan. See you next time.
