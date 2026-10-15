@@ -1,0 +1,22 @@
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Friday, October 16, and we've got three stories today: Meta puts a giant open model on your desk, Anthropic invites the auditors inside, and the King summons the AI labs to Scotland. Let's get into it.
+Alex: Story one is Meta, and it's a big swing at the open-weight crown. On Thursday, Meta launched Muse Spark Open — what it calls the most capable open-weight model in the United States.
+Jordan: How big are we talking?
+Alex: 816 billion parameters total, with 42 billion active per token, and a 1-million-token context window. Meta says it's natively multimodal and built for coding and agentic work — extended tasks, multi-step reasoning, software engineering.
+Jordan: What's the Mac angle?
+Alex: Here's the fun part. Meta tuned it to run locally on Apple computers — specifically, two Mac Studios with the M5 Ultra chip, working as a pair. Apple's unified memory architecture lets each machine's graphics chip use up to 512 gigabytes, so two machines behave like one computer with a full terabyte of memory, reading data at 1.2 terabytes per second. Meta calls that pairing, quote, the best way to run a powerful model on your own desktop.
+Jordan: A terabyte of RAM on a desk. That's a supercomputer pretending to be a desktop.
+Alex: Exactly. And Mark Zuckerberg publicly thanked Apple's chief executive, John Ternus, for the collaboration. The model is free to download, under a license allowing limited commercial use — and it's also on API platforms like Groq, Fireworks AI, and Together AI. Meta even showed it doing real work: fixing bugs and adding features for a Mastodon client, and reviewing and cropping footage in DaVinci Resolve.
+Jordan: From closed labs to a model you can download. Story two flips that openness inward — Anthropic is letting outsiders look under the hood.
+Alex: Right. On Thursday, Anthropic announced it's giving the research nonprofit METR employee-level access to its systems — the top rung of a new three-tier evaluator system. The bottom tier, outfits like the biosecurity nonprofit SecureBio, runs narrow reviews and needs Anthropic's approval to publish. The middle tier gets more information and can publish freely. METR gets the full inside view: training pipelines, safeguards, the works.
+Jordan: Why now?
+Alex: This fulfills a promise from a September essay by chief executive Dario Amodei, who proposed embedding outside evaluators inside AI labs. OpenAI quickly pledged the same thing — and both companies, along with Google, Meta, Nvidia, and x AI, have since signed a White House accord committing to independent review. METR has raised about $71 million this year, so demand for this kind of scrutiny is surging. One caveat: OpenAI hasn't actually embedded evaluators at this level yet.
+Jordan: So the industry is opening its doors — voluntarily, for now. Story three takes us to Scotland, where the King got involved.
+Alex: Yes — King Charles convened executives from the frontier labs at Dumfries House in Scotland this week, for a summit on what organizers called the existential dangers of advanced AI.
+Jordan: Who showed up?
+Alex: Nvidia chief executive Jensen Huang, Google DeepMind founder Demis Hassabis, and OpenAI's chief financial officer Sarah Friar, among others. It's one of the first times these rival labs have gathered at this level outside a government hearing — and the royal setting is the point. It sits above commercial rivalry, so competitors can talk about shared risks without it looking like one company scoring points.
+Jordan: Did anything concrete come out of it?
+Alex: Quietly, yes. A British government statement this week confirmed it has been working with the labs — at this gathering and at the United Nations — to keep the UK's AI Security Institute's pre-release access to frontier models. The Institute's scientists are now evaluating the newest generation of models before they launch.
+Jordan: Open weights, open doors, and a royal summit. Three stories, one thread: the industry is being watched — and it's starting to watch itself.
+Alex: Well said. That's all for today. The word list and full transcript are on the reading page. I'm Alex.
+Jordan: And I'm Jordan. See you next time.
