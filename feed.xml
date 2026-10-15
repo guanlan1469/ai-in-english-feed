@@ -23,6 +23,57 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+      <title>AI in English, Ep.15: Muse Spark Open, the auditors move in, and the king summons the labs</title>
+      <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Meta 发布 8160 亿参数的开放权重模型 Muse Spark Open，可在两台 Mac Studio 上本地运行；Anthropic 授予研究机构 METR 员工级别的访问权限，引入外部评估员常驻；英国国王查尔斯在苏格兰召集前沿实验室高管，共商 AI 的生存级风险。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Friday, October 16, and we've got three stories today: Meta puts a giant open model on your desk, Anthropic invites the auditors inside, and the King summons the AI labs to Scotland. Let's get into it.
+Alex: Story one is Meta, and it's a big swing at the open-weight crown. On Thursday, Meta launched Muse Spark Open — what it calls the most capable open-weight model in the United States.
+Jordan: How big are we talking?
+Alex: 816 billion parameters total, with 42 billion active per token, and a 1-million-token context window. Meta says it's natively multimodal and built for coding and agentic work — extended tasks, multi-step reasoning, software engineering.
+Jordan: What's the Mac angle?
+Alex: Here's the fun part. Meta tuned it to run locally on Apple computers — specifically, two Mac Studios with the M5 Ultra chip, working as a pair. Apple's unified memory architecture lets each machine's graphics chip use up to 512 gigabytes, so two machines behave like one computer with a full terabyte of memory, reading data at 1.2 terabytes per second. Meta calls that pairing, quote, the best way to run a powerful model on your own desktop.
+Jordan: A terabyte of RAM on a desk. That's a supercomputer pretending to be a desktop.
+Alex: Exactly. And Mark Zuckerberg publicly thanked Apple's chief executive, John Ternus, for the collaboration. The model is free to download, under a license allowing limited commercial use — and it's also on API platforms like Groq, Fireworks AI, and Together AI. Meta even showed it doing real work: fixing bugs and adding features for a Mastodon client, and reviewing and cropping footage in DaVinci Resolve.
+Jordan: From closed labs to a model you can download. Story two flips that openness inward — Anthropic is letting outsiders look under the hood.
+Alex: Right. On Thursday, Anthropic announced it's giving the research nonprofit METR employee-level access to its systems — the top rung of a new three-tier evaluator system. The bottom tier, outfits like the biosecurity nonprofit SecureBio, runs narrow reviews and needs Anthropic's approval to publish. The middle tier gets more information and can publish freely. METR gets the full inside view: training pipelines, safeguards, the works.
+Jordan: Why now?
+Alex: This fulfills a promise from a September essay by chief executive Dario Amodei, who proposed embedding outside evaluators inside AI labs. OpenAI quickly pledged the same thing — and both companies, along with Google, Meta, Nvidia, and x AI, have since signed a White House accord committing to independent review. METR has raised about $71 million this year, so demand for this kind of scrutiny is surging. One caveat: OpenAI hasn't actually embedded evaluators at this level yet.
+Jordan: So the industry is opening its doors — voluntarily, for now. Story three takes us to Scotland, where the King got involved.
+Alex: Yes — King Charles convened executives from the frontier labs at Dumfries House in Scotland this week, for a summit on what organizers called the existential dangers of advanced AI.
+Jordan: Who showed up?
+Alex: Nvidia chief executive Jensen Huang, Google DeepMind founder Demis Hassabis, and OpenAI's chief financial officer Sarah Friar, among others. It's one of the first times these rival labs have gathered at this level outside a government hearing — and the royal setting is the point. It sits above commercial rivalry, so competitors can talk about shared risks without it looking like one company scoring points.
+Jordan: Did anything concrete come out of it?
+Alex: Quietly, yes. A British government statement this week confirmed it has been working with the labs — at this gathering and at the United Nations — to keep the UK's AI Security Institute's pre-release access to frontier models. The Institute's scientists are now evaluating the newest generation of models before they launch.
+Jordan: Open weights, open doors, and a royal summit. Three stories, one thread: the industry is being watched — and it's starting to watch itself.
+Alex: Well said. That's all for today. The word list and full transcript are on the reading page. I'm Alex.
+Jordan: And I'm Jordan. See you next time.
+
+
+【生词表】
+open-weight /ˈoʊpən weɪt/ 开放权重的
+parameter /pəˈræmɪtər/ 参数
+context window /ˈkɑːntekst ˈwɪndoʊ/ 上下文窗口
+bandwidth /ˈbændwɪdθ/ 带宽
+agentic /eɪˈdʒentɪk/ 智能体式的
+evaluator /ɪˈvæljueɪtər/ 评估机构
+embed /ɪmˈbed/ 嵌入
+scrutiny /ˈskruːtəni/ 严格审查
+accord /əˈkɔːrd/ 协议
+existential /ˌeɡzɪˈstenʃəl/ 关乎存亡的
+convene /kənˈviːn/ 召集]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP15.mp3" length="4126555" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP15.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep15</guid>
+      <pubDate>Fri, 16 Oct 2026 07:30:00 +0800</pubDate>
+      <itunes:duration>258</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
             <item>
       <title>AI in English, Ep.14: Gemini 4 Argon, Character.AI's Fire Sale, and a 2-to-2 Split in London</title>
       <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Google 发布新旗舰模型 Gemini 4 Argon，促销价只有对手的五分之一；聊天机器人明星 Character.AI 申请破产，迪士尼出价 2000 万美元收购资产；英国议会听证会上，AI 实验室在 AI 安全立法问题上两对两分裂。
