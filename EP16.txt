@@ -1,0 +1,25 @@
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Saturday, October 17, and we've got three stories today: a startup teaches AI to really see, China tightens the gates on AI tech leaving the country, and Anthropic writes its own rulebook for AI safety. Let's get into it.
+Alex: Story one is about vision. On Friday, a startup called Elorian released its first model, called Glimpse, and its whole pitch is that today's AI still can't really see.
+Jordan: Wait — multimodal models look at images all the time. What do they mean by "can't see"?
+Alex: The difference is how they look. Most models glance at an image once, convert it into tokens, and then reason about it from memory — like describing a photo you only peeked at. Glimpse keeps going back to the source. Mid-thought, it can crop into a region, pull frames from a video, even run code to measure what it's looking at. The company calls it a "visual scratch space."
+Jordan: So more like a human pinching to zoom on a phone photo, double checking what they saw.
+Alex: Exactly. And the idea came from game night. Elorian's chief executive, Andrew Dai — a former Google DeepMind researcher — once photographed a board game he'd just finished and asked a frontier model who was winning. It couldn't say. Board games have their own visual language, their own symbols. Easy for a person, baffling for a model.
+Jordan: I love the Ikea argument he made, too.
+Alex: Right — humans can look at Ikea diagrams with zero text and still build the bookshelf. Why can't AI? Now, OpenAI already added crop-and-zoom to its reasoning models last year. Elorian's pitch is that it built the whole model around this from day one — and cheaply, with a small team training on just a few hundred GPUs. The model is small, but on their benchmarks it punches above its weight. For now it's a research preview with A P I access — a results table and a thesis, as TechCrunch put it.
+Jordan: Small team, small model, big idea. Story two takes us to Beijing, where the exits just got narrower.
+Alex: On Friday, China's commerce and science ministries issued a notice proposing to add 23 AI related technologies to the country's export control catalogue — things like large model training, AI agents, and computing clusters.
+Jordan: And there's an immediate piece too, right?
+Alex: Yes — that's the sharp part. Alongside the proposal, the authorities introduced a pre-export registration requirement for those technologies, effective immediately. Even exports already underway but not yet completed are covered. So if your company ships AI tech out of China, you now have to register first — today, not after the public consultation finishes.
+Jordan: How final is the control part?
+Alex: The catalogue additions themselves are still open for public comment. But officials said technologies that are already public — open source releases, academic papers — won't be subject to the controls. That carve-out matters: it means the target is private, frontier-grade tech transfer, not published research.
+Jordan: And Washington's been moving on the same chessboard all week, with the Super Intelligence task force holding its first meeting. Story three keeps us in DC, where Anthropic is suddenly lobbying for rules — its own rules.
+Alex: This one broke Friday via Politico. Anthropic has been quietly pitching lawmakers on a draft bill to regulate frontier AI safety — its own version of what the law should look like.
+Jordan: What's in the draft?
+Alex: Some surprisingly specific tripwires. The government could block a model's release or use only if it poses a foreseeable, imminent risk of more than a billion dollars in damages, or of killing or seriously injuring more than 50 people. The risks covered: bioweapons, a model escaping its developer's controls, or a cyberattack.
+Jordan: Who decides when a tripwire is hit?
+Alex: Independent evaluators, registered with the Commerce Department. Labs could pay them — as long as the pay isn't tied to the verdict. If an evaluator finds an imminent enumerated risk, it has to report to Commerce within 72 hours. Then Commerce can ask a federal judge in DC to suspend the model.
+Jordan: And notably — no other agency could suspend development or deployment on its own. That's Anthropic drawing a line around one door and locking the rest.
+Alex: Precisely. It pairs neatly with yesterday's news: Anthropic just gave the nonprofit M E T R employee-level access to its systems as an evaluator. So the company is already building the auditing machinery it's now asking Congress to bless. Neither Anthropic nor the Commerce Department responded to Reuters for comment.
+Jordan: A seeing machine, a locked gate, and a company writing its own speed limits. That's our three. Have a good weekend — and thanks for listening.
+Alex: We'll be back Monday with three fresh stories. See you then.
