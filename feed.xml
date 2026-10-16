@@ -24,6 +24,60 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+      <title>AI in English, Ep.16: Elorian's Glimpse, China's Export Gates, Anthropic's Safety Bill</title>
+      <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Elorian 发布首款模型 Glimpse，用“视觉草稿区”让 AI 像人类一样反复细看图像；中国对 23 项 AI 技术引入出口前登记要求，即刻生效；Anthropic 悄悄向国会推销自己起草的 AI 安全法案，划定暂停模型的红线。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome to AI in English. I'm Alex.
+Jordan: And I'm Jordan. It's Saturday, October 17, and we've got three stories today: a startup teaches AI to really see, China tightens the gates on AI tech leaving the country, and Anthropic writes its own rulebook for AI safety. Let's get into it.
+Alex: Story one is about vision. On Friday, a startup called Elorian released its first model, called Glimpse, and its whole pitch is that today's AI still can't really see.
+Jordan: Wait — multimodal models look at images all the time. What do they mean by "can't see"?
+Alex: The difference is how they look. Most models glance at an image once, convert it into tokens, and then reason about it from memory — like describing a photo you only peeked at. Glimpse keeps going back to the source. Mid-thought, it can crop into a region, pull frames from a video, even run code to measure what it's looking at. The company calls it a "visual scratch space."
+Jordan: So more like a human pinching to zoom on a phone photo, double checking what they saw.
+Alex: Exactly. And the idea came from game night. Elorian's chief executive, Andrew Dai — a former Google DeepMind researcher — once photographed a board game he'd just finished and asked a frontier model who was winning. It couldn't say. Board games have their own visual language, their own symbols. Easy for a person, baffling for a model.
+Jordan: I love the Ikea argument he made, too.
+Alex: Right — humans can look at Ikea diagrams with zero text and still build the bookshelf. Why can't AI? Now, OpenAI already added crop-and-zoom to its reasoning models last year. Elorian's pitch is that it built the whole model around this from day one — and cheaply, with a small team training on just a few hundred GPUs. The model is small, but on their benchmarks it punches above its weight. For now it's a research preview with A P I access — a results table and a thesis, as TechCrunch put it.
+Jordan: Small team, small model, big idea. Story two takes us to Beijing, where the exits just got narrower.
+Alex: On Friday, China's commerce and science ministries issued a notice proposing to add 23 AI related technologies to the country's export control catalogue — things like large model training, AI agents, and computing clusters.
+Jordan: And there's an immediate piece too, right?
+Alex: Yes — that's the sharp part. Alongside the proposal, the authorities introduced a pre-export registration requirement for those technologies, effective immediately. Even exports already underway but not yet completed are covered. So if your company ships AI tech out of China, you now have to register first — today, not after the public consultation finishes.
+Jordan: How final is the control part?
+Alex: The catalogue additions themselves are still open for public comment. But officials said technologies that are already public — open source releases, academic papers — won't be subject to the controls. That carve-out matters: it means the target is private, frontier-grade tech transfer, not published research.
+Jordan: And Washington's been moving on the same chessboard all week, with the Super Intelligence task force holding its first meeting. Story three keeps us in DC, where Anthropic is suddenly lobbying for rules — its own rules.
+Alex: This one broke Friday via Politico. Anthropic has been quietly pitching lawmakers on a draft bill to regulate frontier AI safety — its own version of what the law should look like.
+Jordan: What's in the draft?
+Alex: Some surprisingly specific tripwires. The government could block a model's release or use only if it poses a foreseeable, imminent risk of more than a billion dollars in damages, or of killing or seriously injuring more than 50 people. The risks covered: bioweapons, a model escaping its developer's controls, or a cyberattack.
+Jordan: Who decides when a tripwire is hit?
+Alex: Independent evaluators, registered with the Commerce Department. Labs could pay them — as long as the pay isn't tied to the verdict. If an evaluator finds an imminent enumerated risk, it has to report to Commerce within 72 hours. Then Commerce can ask a federal judge in DC to suspend the model.
+Jordan: And notably — no other agency could suspend development or deployment on its own. That's Anthropic drawing a line around one door and locking the rest.
+Alex: Precisely. It pairs neatly with yesterday's news: Anthropic just gave the nonprofit M E T R employee-level access to its systems as an evaluator. So the company is already building the auditing machinery it's now asking Congress to bless. Neither Anthropic nor the Commerce Department responded to Reuters for comment.
+Jordan: A seeing machine, a locked gate, and a company writing its own speed limits. That's our three. Have a good weekend — and thanks for listening.
+Alex: We'll be back Monday with three fresh stories. See you then.
+
+【生词表】
+glance /ɡlæns/ 瞥一眼，匆匆一瞥
+scratch space /skrætʃ speɪs/ 草稿区；临时工作空间
+iconography /ˌaɪ.kɒnˈɒɡ.rə.fi/ 图像符号体系；意象系统
+punch above one's weight /pʌntʃ əˈbʌv wʌnz weɪt/ 超出自身体量发挥；以小博大
+research preview /rɪˈsɜːrtʃ ˈpriːvjuː/ 研究预览版
+export control /ɪkˈspɔːrt kənˈtroʊl/ 出口管制
+immediate effect /ɪˈmiːdiət ɪˈfekt/ 立即生效
+public consultation /ˈpʌblɪk ˌkɑːnsəlˈteɪʃən/ 公众征求意见
+carve-out /kɑːrv aʊt/ 豁免；例外条款
+tripwire /ˈtrɪp.waɪər/ 触发线；警戒条件
+foreseeable /fɔːrˈsiːəbəl/ 可预见的
+imminent /ˈɪmɪnənt/ 紧迫的，即将发生的]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP16.mp3" length="4603028" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP16.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep16</guid>
+      <pubDate>Sat, 17 Oct 2026 07:30:00 +0800</pubDate>
+      <itunes:duration>288</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI in English, Ep.15: Muse Spark Open, the auditors move in, and the king summons the labs</title>
       <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Meta 发布 8160 亿参数的开放权重模型 Muse Spark Open，可在两台 Mac Studio 上本地运行；Anthropic 授予研究机构 METR 员工级别的访问权限，引入外部评估员常驻；英国国王查尔斯在苏格兰召集前沿实验室高管，共商 AI 的生存级风险。
 
