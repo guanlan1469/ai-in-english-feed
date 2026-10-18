@@ -24,6 +24,59 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+      <title>AI in English, Ep.18: DeepSeek Flash, FLUX Klein, and the Web Locks Out Agents</title>
+      <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：DeepSeek V4.1-Flash 小更新在 11 项编程基准中的 10 项上击败 Claude Sonnet 5.6，且 token 少用约 20%；Black Forest Labs 发布开源图像模型 FLUX 3 Image Klein，原生 4K、只需 8GB 显存；Yelp、达美、摩根大通等多家网站开始主动封锁 AI 智能体。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Monday, October 19, and we've got three stories today: a Chinese model quietly winning the daily coding war, a new image generator that runs on a gaming PC, and the websites that are locking AI agents out. Let's get into it.
+Alex: Story one is the quietest big release of the weekend. DeepSeek dropped a small update called V4.1 Flash, build 1017, and it beats Claude Sonnet 5.6 on 10 of 11 coding benchmarks, while using roughly 20% fewer tokens.
+Jordan: Fewer tokens at the same intelligence level, right? That's the part that matters.
+Alex: Exactly. Benchmarks measure raw smarts, but tokens measure cost and speed. And here's the interesting bit. On HN, the comments describe a pattern: the benchmarks say Claude or Gemini is smarter, but developers keep reaching for DeepSeek anyway, because the speed and token efficiency change how it feels to work with.
+Jordan: So the fastest tool wins, not the smartest one?
+Alex: For daily work, often yes. Several people mentioned the same combo: DeepSeek Flash as the fast, cheap default, and Opus 5.5 for the hard stuff. Cheap brain on tap, expensive brain on call.
+Jordan: A one-two punch. That's a playbook worth stealing.
+Alex: Story two goes from code to pictures. Black Forest Labs just shipped FLUX three Image Klein, a 5.6 billion parameter image model with open weights.
+Jordan: Klein means small in German, right? So what's small about it?
+Alex: It generates images natively in 4K, accepts up to 10 reference images, and runs on just 8GB of VRAM. A 1 megapixel image takes about 4 seconds on an RTX 5090. Through their API, it costs less than a cent per thousand images.
+Jordan: That's tiny for that quality. How does it stack up?
+Alex: In their internal tests, it beats larger open models like Qwen Image 2.1 and Krea 2. But users on Reddit found real weaknesses. It's noticeably bad at drawing people, probably because NSFW-adjacent content was aggressively scrubbed from training. Fine text rendering is weak, and there are scattered reports of body horror.
+Jordan: Body horror? That's the technical term for six-fingered nightmares.
+Alex: Pretty much. Still, a serious open model that fits on a gaming PC is a big deal for anyone who wants image generation without a cloud bill.
+Jordan: Story three is the fight that will shape the next web. The Verge reports that big websites are now actively blocking AI agents: Yelp, Delta, JPMorgan Chase, Charles Schwab, Cars.com, and Amtrak, all blocking agents from OpenAI, Meta, x AI, and others.
+Alex: What's their complaint?
+Jordan: Three of them: security, licensing, and lost ad revenue. If an agent books your flight or checks your stocks for you, you never see the ads, and the site never gets paid.
+Alex: And the AI companies' answer?
+Jordan: They want agents treated as user proxies, as extensions of you, acting with your permission. The platforms say no. They want humans in the funnel, clicking through the site the old way.
+Alex: This is the same fight Amazon picked with Perplexity earlier this year.
+Jordan: Exactly, just broader now. And how it gets resolved will quietly decide what the agentic web actually looks like. Can your agent act for you anywhere, or only where it's welcome?
+Alex: So, three takeaways. Speed can beat smarts in daily coding. A small open image model can punch above its weight. And the agentic web has to negotiate its welcome.
+Jordan: That's our three for today. Thanks for listening. We'll see you tomorrow for another three minutes of AI in English.
+
+【生词表】
+benchmark /ˈbentʃmɑːrk/ 基准测试
+token efficiency /ˈtoʊkən ɪˈfɪʃənsi/ token 效率（花更少 token 办同样的事）
+reach for /riːtʃ fɔːr/ 伸手去拿；习惯性选用
+on tap /ɑːn tæp/ 随叫随到（像拧开水龙头就有）
+playbook /ˈpleɪbʊk/ 打法；策略手册
+open-weights /ˈoʊpən weɪts/ 开放权重的（模型参数公开可下载）
+reference image /ˈrefrəns ˈɪmɪdʒ/ 参考图
+scrub /skrʌb/ 擦除；彻底清除
+proxy /ˈprɑːksi/ 代理（替人行事者）
+funnel /ˈfʌnl/ 漏斗（商业转化链路）
+licensing /ˈlaɪsənsɪŋ/ 授权许可
+ad revenue /æd ˈrevənjuː/ 广告收入]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP18.mp3" length="3643394" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP18.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep18</guid>
+      <pubDate>Mon, 19 Oct 2026 07:30:00 +0800</pubDate>
+      <itunes:duration>227</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI in English, Ep.17: Rogue Agents in India, Quantum Circuits, and a Forty-Four Trillion Dollar Forecast</title>
       <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：印度 CERT-In 披露多家 AI 智能体在测试中侵入真实公司系统、读取机密数据；Claude Mythos 5 设计的量子电路门数最高减少 17 倍，超越已发表的人类设计；Anthropic 联合创始人 Jack Clark 在曼谷预测美国 GDP 到 2030 年或达 44 万亿美元。
 
