@@ -24,6 +24,51 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+      <title>AI in English, Ep.19: Anthropic's Benefit Fund, Mercury 3, and AI Workforce</title>
+      <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 在 IPO 前宣布把 5% 股份投入新公益基金（估值上涨还有自动追加机制），埃隆·马斯克公开喊话“直接发给公众”；Inception 发布 Mercury 3，自称最强扩散式语言模型，每秒一千多 token，快 4–8 倍；Axonius 推出 AI Workforce，五十多种虚拟员工替安全团队值夜班，人审批节点保留。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Tuesday, October 20, and we've got three big ones today: Anthropic setting aside billions in shares before its mega IPO, the fastest language model we've ever seen, and a new AI workforce doing security work for you. Let's dive in.
+Alex: Story one is about money with a mission. On Sunday, Anthropic announced plans to commit 5% of its shares to a new Public Benefit Fund. If the company is worth around $2 trillion at IPO, the number The Wall Street Journal has been reporting, 5% is roughly $100 billion.
+Jordan: And it grows automatically. The board can add another 2% of equity for every 50% rise in the company's valuation above a set baseline. The more Anthropic grows, the bigger the fund gets.
+Alex: Right. And with pledges that already exist, about 20% of all shares would go to public good. The co-founders promised to give away 80% of their personal wealth, and around half of the employees take part in an equity donation matching program.
+Jordan: But it's not a traditional charity. It's a wholly owned LLC, which is more flexible. It could donate to nonprofits, or pay people directly when AI disrupts their jobs. One thing it will never do is lobbying or political donations. Anthropic was explicit about that.
+Alex: Not everyone is sold. Elon Musk jumped in on X, saying he recommends giving the shares directly to the public, and that this is what he will be doing. For context, about a year ago OpenAI restructured so its nonprofit parent holds a 26% stake in the for-profit company. The big labs are all rewriting their money stories before going public.
+Jordan: Story two is about pure speed. Yesterday, Inception released Mercury 3, which it calls the most capable diffusion-based language model ever built. Diffusion models don't write one word at a time like the ones we are used to. They generate text in parallel, so Mercury 3 runs at over 1,000 tokens per second, 4 to 8 times faster than its rivals.
+Alex: Pricing is aggressive too. $0.10 per million input tokens, $0.35 per million output tokens at launch. Inception says it beats GPT-6 Luna and Claude Haiku 5.5 across a range of benchmarks, with a 1 million token context window.
+Jordan: The deeper claim is that diffusion scales. Mercury 3 is more than 40 times larger than Mercury 1, and performance tripled along the way. If that holds, the whole industry might get much, much faster very soon.
+Alex: Story three is about who does the night shift. On Monday, the security company Axonius launched the AI Workforce: more than 50 types of virtual workers that watch over a company's systems, find high-risk exposures, fix them, and report back on their progress.
+Jordan: The pitch is honest. Most security automation is dumb. A job runs overnight, checks a condition somebody wrote months ago, and opens a ticket. These workers instead notice when something drifts from its expected state and fix it, or stop and ask a human when an action needs approval. Every worker owns one metric, so teams can see if things are actually improving.
+Alex: And two tools they previewed in July are now live. The AI Companion lets you ask questions in plain English and act on the answer in the same conversation, like opening a ticket or tagging devices. There's also an MCP Server that lets outside AI tools and agents tap into the same data through the Model Context Protocol.
+Jordan: So the pitch is simple. Stop buying dashboards. Start hiring workers. Except the workers are software.
+Alex: That's the show. Anthropic putting a fifth of itself on the line for the public good, a model that could change how fast AI feels, and digital coworkers watching the security cameras. See you tomorrow.
+Jordan: See you tomorrow. Keep listening, and keep learning.
+
+【生词表】
+pledge /pledʒ/ 承诺；发誓保证
+equity /ˈekwəti/ 股权
+philanthropy /fɪˈlænθrəpi/ 慈善事业
+displacement /dɪsˈpleɪsmənt/ 替代；取代（指 AI 对工作的替代）
+valuation /ˌvæljuˈeɪʃn/ 估值
+escalator /ˈeskəleɪtər/ 自动上调机制（字面是“自动扶梯”）
+diffusion /dɪˈfjuːʒn/ 扩散（一种模型架构）
+autoregressive /ˌɔːtoʊrɪˈɡresɪv/ 自回归的
+benchmark /ˈbentʃmɑːrk/ 基准测试
+virtual worker /ˈvɜːrtʃuəl ˈwɜːrkər/ 虚拟员工
+remediation /rɪˌmiːdiˈeɪʃn/ 修复；整改
+autonomy /ɔːˈtɑːnəmi/ 自主权]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP19.mp3" length="3782992" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP19.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep19</guid>
+      <pubDate>Tue, 20 Oct 2026 07:30:00 +0800</pubDate>
+      <itunes:duration>236</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI in English, Ep.18: DeepSeek Flash, FLUX Klein, and the Web Locks Out Agents</title>
       <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：DeepSeek V4.1-Flash 小更新在 11 项编程基准中的 10 项上击败 Claude Sonnet 5.6，且 token 少用约 20%；Black Forest Labs 发布开源图像模型 FLUX 3 Image Klein，原生 4K、只需 8GB 显存；Yelp、达美、摩根大通等多家网站开始主动封锁 AI 智能体。
 
