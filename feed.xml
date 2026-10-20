@@ -23,6 +23,51 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI in English, Ep.20: A $1.5B Chip Bet, DeepSeek's Open Engine, Nvidia's Berlin Day</title>
+      <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：AI 芯片初创公司 Tenstorrent 完成 15 亿美元 E 轮融资、估值 62 亿美元，掌舵者是传奇芯片设计师 Jim Keller；DeepSeek 开源内部推理引擎 DeepInfer，彭博社称这等于公开了它压低推理成本的秘密；英伟达 GTC Berlin 大会今日举行，黄仁勋主题演讲兑现 20 亿美元欧洲投资承诺。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Wednesday, October twenty-first, and we've got three heavy-hitters today: a billion-dollar bet against Nvidia, DeepSeek giving away its secret recipe, and Jensen Huang's big European moment. Let's dive in.
+Alex: Story one is about the Nvidia challengers raising real money. On Monday, the AI chip startup Tenstorrent said it closed a one-point-five billion dollar Series E, valuing the company at six-point-two billion dollars.
+Jordan: That's more than triple its last valuation. The round was led by Trace Capital and Innovation X, and the company is run by Jim Keller, a legendary chip designer who has built processors at Apple, Tesla, and AMD.
+Alex: The plan is to scale up its Galaxy servers, racks of AI chips built for language and video generation. Tenstorrent also licenses its processor designs to customers building their own chips, including Samsung and LG. And its software is open source, which is the opposite of Nvidia's playbook.
+Jordan: The timing is interesting. Earlier this month, reports said fellow chip startup Etched was fielding offers at valuations of forty billion dollars or more. Capital is clearly flowing to whoever can make running AI cheaper, not whoever trains the biggest model.
+Alex: Story two is about making AI cheaper from the software side. Yesterday, DeepSeek open-sourced DeepInfer, the in-house inference engine that powers its V4.1 Flash model.
+Jordan: Inference is the cost of actually running a model, not training it, and it is where a lot of the industry's money is going. DeepSeek says DeepInfer has high-performance kernels, distributed inference, and speculative decoding. Bloomberg noted the release basically shows the world how DeepSeek keeps its inference costs so low.
+Alex: They also open-sourced something called deepseek-recipe, the production tokenizer that is aligned with the official DeepSeek API, so community deployments behave exactly like DeepSeek's own service.
+Jordan: The timing raised eyebrows. The announcement came a day after the US Department of Homeland Security ordered federal civilian agencies to stop buying DeepSeek products and remove them from their systems, saying the models present multiple threat vectors. Open-source software for the world, a ban at home.
+Alex: Story three is happening today, in Berlin. Nvidia's GTC conference is underway, and Jensen Huang gives his keynote this morning at eleven o'clock Central European Time, at the Tempodrom in Berlin.
+Jordan: The big question is the money. Nvidia promised two billion dollars of investment in Europe, and today's keynote is where that promise comes due. Fortune reports more announcements are expected, with a German deal up first.
+Alex: What we know about the German piece comes from Handelsblatt and government sources: a deal with Berlin is reportedly in the works, but neither the government nor Nvidia had published terms as of this week.
+Jordan: On the sovereignty question, Huang has argued that what matters is who operates the service, not where the chips are made. Europe will be judging this package by who controls the resulting compute, not by the headline number.
+Alex: That's the show. A six-billion-dollar challenger to Nvidia, DeepSeek handing over the keys to cheap inference, and Jensen Huang's European audition. See you tomorrow.
+Jordan: See you tomorrow. Keep listening, and keep learning.
+
+【生词表】
+valuation /ˌvæljuˈeɪʃən/ 估值
+series E /ˈsɪriz iː/ E 轮融资
+license /ˈlaɪsəns/ 授权、许可使用
+playbook /ˈpleɪbʊk/ 打法，策略手册
+inference /ˈɪnfərəns/ 推理（运行模型的过程）
+kernel /ˈkɜːrnəl/ 内核
+speculative decoding /ˈspekjələtɪv dɪˈkoʊdɪŋ/ 推测解码
+tokenizer /ˈtoʊkənaɪzər/ 分词器
+threat vector /θret ˈvektər/ 威胁向量，攻击途径
+keynote /ˈkiːnoʊt/ 主题演讲
+come due /kʌm duː/ 兑现，到期应付
+sovereignty /ˈsɑːvrənti/ 主权]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP20.mp3" length="3293562" type="audio/mpeg" />
+      <podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP20.txt" type="text/plain" />
+      <guid isPermaLink="false">ai-in-english-ep20</guid>
+      <pubDate>Wed, 21 Oct 2026 07:30:00 +0800</pubDate>
+      <itunes:duration>206</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 <item>
       <title>AI in English, Ep.19: Anthropic's Benefit Fund, Mercury 3, and AI Workforce</title>
       <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 在 IPO 前宣布把 5% 股份投入新公益基金（估值上涨还有自动追加机制），埃隆·马斯克公开喊话“直接发给公众”；Inception 发布 Mercury 3，自称最强扩散式语言模型，每秒一千多 token，快 4–8 倍；Axonius 推出 AI Workforce，五十多种虚拟员工替安全团队值夜班，人审批节点保留。
