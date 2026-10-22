@@ -1,0 +1,22 @@
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Friday, October twenty-third, and the AI world had a busy Thursday. OpenAI is moving onto Google's cloud, Anthropic has an agent that works before you ask, and the open-weight model wars just got cheaper. Let's dive in.
+Alex: Story one is a plot twist nobody had on their bingo card. OpenAI, Microsoft's star partner, announced its models are coming to Google Cloud.
+Jordan: Yeah — enterprises with existing Google Cloud spend commitments can now pay for OpenAI inference out of that same budget. And it's not just the models; Codex, OpenAI's coding agent, is coming to GCP too.
+Alex: And OpenAI couldn't resist adding a disclaimer: Microsoft is still its primary cloud partner. You know, just in case anyone got ideas.
+Jordan: The internet got ideas anyway. One commenter on Hacker News said Google Cloud CEO Thomas Kurian is eating DeepMind's lunch — first selling TPUs to outsiders, now hosting a direct rival to Gemini. Another suggested Alphabet should just spin DeepMind out and stick to selling shovels.
+Alex: My favorite question, though: how does OpenAI stop Google from distilling anything that passes through? That's the worry — that Google could learn from all that traffic running on its own hardware.
+Jordan: It's a fair question, and OpenAI didn't answer it. But here's the business logic: a lot of enterprises already hold big Google Cloud commitments. OpenAI would rather that money flow to its own models than to a competitor. Distribution beats exclusivity.
+Alex: Story two: Anthropic just launched Claude Duet, and it's the most proactive AI assistant we've seen yet.
+Jordan: Right — powered by Opus 5.5, Duet is out in research preview. It sends you morning briefings, monitors your connected apps, and handles scheduling, dashboards, even payments — though it still asks for human approval on sensitive actions.
+Alex: The idea is that it acts before you ask. Instead of waiting for a prompt, it flags what matters and gets things done in the background. Anthropic is clearly swinging at Meta's Muse and OpenAI's Dots here.
+Jordan: It's available on a waitlist for US Pro and Max subscribers. But not everyone is charmed — Hacker News commenters were asking why a logged-in Claude user needs to join a waitlist at all, and whether handing an AI agent your password manager is, quote, the mother of all bad ideas.
+Alex: Honestly, that last concern lands. Proactive is great until the agent proactively does something you'd never approve. That human-approval gate on sensitive actions is doing a lot of heavy lifting.
+Jordan: Story three: the open-weight wars are heating up, and everything is getting cheaper. Nvidia and Reflection just made their open models enterprise-ready.
+Alex: Nvidia's Nemotron 3.5 Super VL is an open, hundred-and-twenty-billion-parameter model that reads documents, charts, and web pages. Ramp is already tuning it for financial document analysis, and Scale AI trained a version for a client's merger due diligence. A bank could review credit files against its own lending rules without sending data to the cloud at all.
+Jordan: Then there's Reflection AI's Beam — five hundred and one billion parameters, with the full weights released under a free commercial license. It launched with more than forty partners, including AWS, Google Cloud, Microsoft, and Oracle. Dell and HPE will deliver it for on-premises and air-gapped setups.
+Alex: And the Chinese labs answered with price cuts, as they always do. DeepSeek updated its low-cost Flash model — faster, shorter answers, which means lower cost per job, with the weights free under an MIT license. MiniMax launched M3.1 Flash: nearly three times faster than its predecessor and seventy percent cheaper to run — fifteen cents per million input tokens, sixty cents for output.
+Jordan: So the American open stack is finally stacking up, and the race is now about price per job, not just benchmark scores. For banks and insurers that can't touch Chinese models for security reasons, the in-house menu just got a lot bigger.
+Alex: That's our three. Big distribution plays, agents that act first, and open models going cheap.
+Jordan: As always, every story we covered is in the show notes with the full English transcript and this episode's vocabulary list.
+Alex: Thanks for listening. We'll be back Monday with three more — same time, same place.
+Jordan: See you then!
