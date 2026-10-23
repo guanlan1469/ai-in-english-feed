@@ -24,6 +24,53 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.23: Trillion Dollar Rounds, a Neutral Home for Agent Skills, and Britain's AI Shield</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 正在敲定 300 亿美元新融资，投前估值 1.25 万亿美元，报价一个月内下调 1500 亿，赶在 Anthropic 的 IPO 前签完；Anthropic 把 Agent Skills 标准捐给 Agentic AI 基金会，OpenAI、Hugging Face、阿里巴巴同日贡献新项目，基金会项目数达到 10 个；英国宣布 6 亿英镑 AI 安全计划，主攻生物安全、AI 安全研究所与关键基础设施网络防御。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Saturday, October twenty-fourth, and the money is flying. OpenAI is closing in on a thirty-billion-dollar round at a one-point-two-five-trillion-dollar valuation, Anthropic is handing its Agent Skills standard to a neutral foundation, and Britain just announced a six-hundred-million-pound plan to defend itself from dangerous AI. Let's dive in.
+Alex: Story one is the race to be the most valuable private company in history. OpenAI is reportedly closing a raise of up to thirty billion dollars at a one-point-two-five trillion dollar pre-money valuation, led by the investment firm Coatue and investors from the UAE, according to CNBC and TechCrunch.
+Jordan: And here's the spicy detail. About a month ago, Bloomberg reported that same round was being pitched at one-point-four trillion. One hundred fifty billion dollars came off the sticker in six weeks — and outlets describe the ask as being lowered as talks finalize.
+Alex: The timing is no accident. Anthropic is rumored to file its public S-1 any day now, targeting a one-point-five to two trillion dollar valuation for its debut. OpenAI told investors it wants signatures by the end of next week — get the round done before Anthropic's financial disclosures invite direct comparisons.
+Jordan: There's also a side deal tucked into the round: additional computing capacity for OpenAI from the UAE. It makes sense — the company reportedly told investors it plans to spend six hundred billion dollars on compute by twenty-thirty. The money and the machines come as a bundle now.
+Alex: Story two: a quiet but important moment for the agent ecosystem. On October twenty-second, at a conference in San Jose, Anthropic donated its Agent Skills standard to the Agentic AI Foundation — a neutral body under the Linux Foundation, and the same home Anthropic gave MCP to last December.
+Jordan: So what is a skill? The mechanism is deliberately plain: it's a folder. Inside sits a file called SKILL.md — written instructions for one task or domain — plus optional scripts and reference material. No runtime, no registry account. If your agent can read files, it can use a skill.
+Alex: Anthropic invented the format while building Claude Code, then published it as an open standard in December twenty twenty-five. The numbers since are striking: more than seventy agent platforms have adopted it, including ChatGPT, Cursor, GitHub Copilot, and VS Code. Developers have published one million skills, installed nearly two hundred eighty million times.
+Jordan: And Anthropic wasn't alone on that stage. OpenAI contributed Open Responses, Hugging Face brought OpenEnv, and Alibaba added OpenSandbox. The foundation now hosts ten projects covering the whole agent stack — how agents gain skills, talk to models, get trained, and run safely. The message is clear: no single company should own the rules, so developers can build without lock-in anxiety.
+Alex: Story three takes us to London. On Saturday, the British government set out around six hundred million pounds — roughly eight hundred million dollars — of AI security funding.
+Jordan: The biggest chunk goes to biosecurity: one hundred million pounds for a new AI lab to detect biological threats, plus sixty-five million to develop countermeasures against pathogens. OpenAI and Anthropic pledged up to two hundred million in model credits for the initiative, and Google DeepMind is offering assistance too.
+Alex: There's more in the package. Britain's AI Security Institute gets an extra one hundred twenty million pounds. One hundred thirty million goes to cyber defenses for critical infrastructure — a program called the National Cyber Shield — plus smaller pots for a chip design academy, robotics, and regional AI funds.
+Jordan: Tech minister Kanishka Narayan said the goal is to make the new biosecurity lab a world-leading institution, bringing together top scientific talent to protect people from emerging biological threats. It's the largest single AI security commitment any government has made this month.
+Alex: That's our three. A trillion-dollar funding race between OpenAI and Anthropic, agent standards moving into neutral hands, and Britain putting real money behind AI defense.
+Jordan: As always, every story we covered is in the show notes with the full English transcript and this episode's vocabulary list.
+Alex: Thanks for listening. We'll be back tomorrow with three more — same time, same place.
+Jordan: See you then!
+
+【生词表】
+valuation /ˌvæl.juˈeɪ.ʃən/ 估值
+pre-money /ˌpriːˈmʌni/ 融资前（的估值）
+markdown /ˈmɑːrk.daʊn/ 降价，下调
+sticker price /ˈstɪk.ər praɪs/ 标价，贴牌价
+comparison /kəmˈpær.ɪ.sən/ 对比
+standard /ˈstæn.dərd/ 标准
+neutral /ˈnuː.trəl/ 中立的
+lock-in /ˈlɑːk.ɪn/ （被厂商）锁定
+biosecurity /ˌbaɪ.oʊ.sɪˈkjʊər.ə.ti/ 生物安全
+pathogen /ˈpæθ.ə.dʒən/ 病原体
+countermeasure /ˈkaʊn.tərˌmeʒ.ər/ 对策，防范措施
+infrastructure /ˈɪn.frəˌstrʌk.tʃər/ 基础设施]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP23.mp3" length="4438352" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP23.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep23</guid>
+<pubDate>Sat, 24 Oct 2026 07:30:00 +0800</pubDate>
+<itunes:duration>277</itunes:duration>
+<itunes:episode>23</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.22: OpenAI Lands on Google Cloud, Claude Goes Proactive, and the Open-Weight Price War</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 模型登陆 Google Cloud，企业可用云消费额度支付，微软仍是主要云伙伴；Anthropic 推出主动式智能体 Claude Duet，进入研究预览；Nvidia 与 Reflection 发布企业级开放权重模型，DeepSeek、MiniMax 再度降价，开源大战拼起价格。
 
