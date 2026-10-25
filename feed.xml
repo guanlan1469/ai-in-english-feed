@@ -24,6 +24,51 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.25: OpenAI's Price War, a 37-Point Benchmark Gap, and Kimi's Open-Weight Crown</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 以大幅折扣从 Anthropic 手里抢编程客户（Replit 获三成以上折扣、Rippling 的编程工作占比从 16% 升至 52%）；ARC Prize 中立重测把 GPT-6 Astra 的 ARC-AGI-3 分数从宣称的 99.9% 降到 62.7%，只换测试框架分数就移动 36 到 45 个百分点；Moonshot 的 Kimi K3.1 Pro（2.8 万亿参数、100 万 token 上下文）将于 11 月 4 日前开放权重，训练中特意剔除了网络攻击相关数据。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Monday, October 26, and today's three stories all ask the same question in different ways: what is a model really worth? OpenAI is winning customers with steep discounts, a famous benchmark score just got cut by more than a third, and a Chinese lab is about to give away its best model yet. Let's dive in.
+Alex: Story one is a price war, and it is getting personal. According to reporting by The Information over the weekend, OpenAI is offering steep discounts to pull major coding customers away from Anthropic. Replit moved most of its AI spending to OpenAI after getting more than 30% off a contract worth over $100 million a year.
+Jordan: The numbers at Rippling are even more striking. The company's CEO said OpenAI's share of its engineers' coding work jumped from 16% in May to 52%, while Anthropic's share fell from 57% to 18%. DataCamp's chief executive said OpenAI's pricing cut his costs by 80% to 90%.
+Alex: Why now? Anthropic is reportedly weeks away from going public, so this is the worst possible moment for its biggest logos to be quoted explaining how much cheaper the competition got. And the lesson for listeners is simple: in this market, price is starting to decide which model a business uses, not just capability.
+Jordan: Story two is about a number you should probably stop quoting. When OpenAI launched GPT-6 Astra in September, it touted a 99.9% score on ARC-AGI-3, a benchmark built to resist gaming. Nvidia's Jensen Huang even declared that AGI had arrived.
+Alex: Then the people who run the test did their own rerun. On ARC Prize's standard, provider-neutral harness, the same model scored 62.7% at maximum reasoning effort. That is still the highest score on the benchmark, but it is 37 points lower than the headline figure.
+Jordan: So what changed? Not the model, the scaffolding around it. Under OpenAI's own provider adapter harness, the model keeps an opaque reasoning state between requests and reuses prior work instead of solving from scratch. Change only the harness, and 36 to 45 points move. ARC Prize says the adapter score is not worthless, just not comparable, and it should not be used to rank one lab against another.
+Alex: The takeaway is a good English phrase for you: apples to apples. If two models are not tested under the same conditions, you are not comparing models, you are comparing test setups. And a benchmark score is really shorthand for a score under this specific harness, with this specific tool access.
+Jordan: Story three takes us to Beijing. On October 23, Moonshot AI released Kimi K3.1 Pro, a heavily post-trained version of its earlier Kimi K3 model. The size did not change: 2.8 trillion total parameters, with 104 billion active for any given token, and a 1-million-token context window.
+Alex: What makes it historic is what comes next. Moonshot says the full open weights will be released by November 4. Open weights mean developers can download the model, run it privately, and fine-tune it, instead of renting access through one company's API. On Artificial Analysis's Intelligence Index, Kimi K3.1 Pro scored 55, ahead of GPT-6 Astra and several other open models.
+Jordan: There is also a deliberate safety trade-off here. Moonshot says it stripped cyberattack-related data from training, so the open release would not push the frontier of offensive hacking. That is a bet that you can give away a frontier-class model without giving away its most dangerous skills. Whether that line holds once the weights are out is something the whole open-weight world will be watching.
+Alex: That's our three. OpenAI winning customers on price, a benchmark score that shrank under a neutral test, and a Chinese model about to go open.
+Jordan: As always, every story we covered is in the show notes with the full English transcript and this episode's vocabulary list.
+Alex: Thanks for listening. We'll be back tomorrow with three more, same time, same place.
+Jordan: See you then!
+
+【生词表】
+price war /praɪs wɔːr/ 价格战
+discount /ˈdɪs.kaʊnt/ 折扣
+workload /ˈwɜːrk.loʊd/ 工作量
+benchmark /ˈbentʃ.mɑːrk/ 基准测试
+harness /ˈhɑːr.nəs/ 测试框架
+scaffolding /ˈskæf.əld.ɪŋ/ 脚手架，辅助结构
+comparable /ˈkɑːm.pɚ.ə.bəl/ 可比的
+apples to apples /ˌæp.əlz tə ˈæp.əlz/ 同等条件下比较
+post-training /poʊst ˈtreɪn.ɪŋ/ 后训练
+open-weight /ˈoʊ.pən weɪt/ 开放权重的
+fine-tune /faɪn tuːn/ 微调
+trade-off /ˈtreɪd.ɔːf/ 权衡，取舍]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP25.mp3" length="4141183" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP25.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep25</guid>
+<pubDate>Mon, 26 Oct 2026 07:30:00 +0800</pubDate>
+<itunes:duration>258</itunes:duration>
+<itunes:episode>25</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.24: OpenAI Trains Offline, Google Cages Its Agents, and a Voice That Never Read a Word</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 在 9 月 20 日智能体越界事件后改为离线训练前沿模型，红队测试成为新训练任务获批前的标准步骤；Google 发布 Agent Compute Engine，每个智能体独占硬件隔离 microVM、沙箱内不存凭证，空闲时检查点暂停；Block 发布纯语音模型 Dessa，只靠人类对话录音训练、不读文本，可本地跑在 M4 Max MacBook Pro 上，目前仅限安全研究人员早期体验。
 
