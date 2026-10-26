@@ -24,6 +24,49 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.26: Anthropic's IPO, Meta's $95B Raise, and Microsoft's 60,000 Buyouts</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 提交 IPO 招股书，将成为首家上市的纯 AI 实验室（上半年营收 163 亿美元、同比增 1300%，同时警告技术可能带来灾难性风险）；Meta 计划筹资 950 亿美元（350 亿承销募股＋600 亿市价发行）投入 AI 基建，Muse 在美加首周用户超 1000 万；微软向约 6 万名员工提供自愿买断，约占全球员工 27%，为 AI 建设腾挪人力与资金。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Tuesday, October 27th, and today it's all about money — the staggering sums flowing into AI, and the human cost of paying for it. Anthropic is heading for the stock market, Meta wants to raise $95 billion, and Microsoft is offering buyouts to tens of thousands of staff. Let's dive in.
+Alex: Story one is historic. Anthropic, the company behind Claude, has filed its prospectus for an initial public offering, the first time a pure AI lab has tried a stock market flotation like this. It plans to list on Nasdaq under the ticker ANT, with Goldman Sachs and Morgan Stanley leading the deal.
+Jordan: The numbers in that filing are eye-watering. Anthropic says its revenue in the first six months of this year reached $16.3 billion, up 1,300 percent from a year earlier. It calls Claude's business uptake the fastest enterprise adoption of any technology in history.
+Alex: The company is currently valued at around $965 billion, and reports say it is targeting something closer to $1.75 trillion when it lists, possibly as soon as November. But the filing also carries a blunt warning: its technology could pose catastrophic or existential risks to humanity if it fell into the wrong hands.
+Jordan: That tension is the whole story, really. Investors are being asked to bet on explosive growth and, in the same document, to face the risk that the product itself could be dangerous. Anthropic was founded in 2021 by seven former OpenAI employees, and now its debut will be a test of whether the AI boom can survive the public markets.
+Alex: Story two is Meta, and the number is almost hard to say out loud: $95 billion. On Monday, Meta said it plans to raise $35 billion through an underwritten public equity offering, plus another $60 billion through an at-the-market program, selling shares gradually as conditions allow.
+Jordan: Where does it all go? Mostly into AI infrastructure — the data centers and chips behind its Muse model, which Meta says gained more than 10 million users in the US and Canada in its first weeks, with more than a quarter of them using it every day. Meta also talks about serving high-margin inference demand for business customers through its new Meta Enterprise Platform.
+Alex: So this is not a company in trouble raising rescue money. It is a company doubling down while its core apps are, in its own words, seeing record engagement. The question for investors is simpler: can even $95 billion buy a lasting lead in a race where everyone is spending at the same scale?
+Jordan: Story three brings the money question down to people. On Monday, Microsoft offered voluntary buyouts to around 60,000 employees — roughly 27 percent of its global workforce — as it pours billions into AI infrastructure.
+Alex: The offer covers eligible staff at level 70 and below in the US, Canada, the UK and India, in participating divisions. Not everyone is included: reports say data center, sales and marketing roles are excluded, and eligibility depends on business needs. Microsoft says the program gives people considering a future outside the company a supported way to make that move now.
+Jordan: Put the three stories together and you get the shape of this moment. Anthropic is asking public investors to fund its next chapter, Meta is raising a sum bigger than most countries' budgets to build its AI future, and Microsoft is reshaping its workforce to pay for the same build-out.
+Alex: That's our three. A landmark AI listing, a $95-billion raise, and 60,000 buyout offers — all in a single day.
+Jordan: As always, every story we covered is in the show notes with the full English transcript and this episode's vocabulary list.
+Alex: Thanks for listening. We'll be back tomorrow with three more, same time, same place.
+Jordan: See you then!
+
+【生词表】
+prospectus /prəˈspektəs/ 招股说明书
+flotation /floʊˈteɪʃən/ （公司）上市，首次公开募股
+valuation /ˌvæljuˈeɪʃən/ 估值
+underwritten /ˈʌndərˌrɪtən/ 承销的
+at-the-market program /æt ðə ˈmɑːrkɪt ˈproʊɡræm/ 市价发行计划
+enterprise adoption /ˈentərpraɪz əˈdɑːpʃən/ 企业采用
+catastrophic /ˌkætəˈstrɑːfɪk/ 灾难性的
+infrastructure /ˈɪnfrəstrʌktʃər/ 基础设施
+voluntary buyout /ˈvɑːlənteri ˈbaɪaʊt/ 自愿买断（离职补偿方案）
+staggering /ˈstæɡərɪŋ/ 惊人的，令人咋舌的]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP26.mp3" length="3787590" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP26.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep26</guid>
+<pubDate>Tue, 27 Oct 2026 07:30:00 +0800</pubDate>
+<itunes:duration>236</itunes:duration>
+<itunes:episode>26</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 <title>AI in English, Ep.25: OpenAI's Price War, a 37-Point Benchmark Gap, and Kimi's Open-Weight Crown</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 以大幅折扣从 Anthropic 手里抢编程客户（Replit 获三成以上折扣、Rippling 的编程工作占比从 16% 升至 52%）；ARC Prize 中立重测把 GPT-6 Astra 的 ARC-AGI-3 分数从宣称的 99.9% 降到 62.7%，只换测试框架分数就移动 36 到 45 个百分点；Moonshot 的 Kimi K3.1 Pro（2.8 万亿参数、100 万 token 上下文）将于 11 月 4 日前开放权重，训练中特意剔除了网络攻击相关数据。
 
