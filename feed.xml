@@ -24,6 +24,49 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.27: AI Challenges a 27-Year-Old Guess, Oracle Hosts Google Chips, and Apple Opens Office Apps to Agents</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 与 Anthropic 称其模型证伪了 1999 年的指数时间假设（Lean 形式化已公开，但评审小组强调参与不等于认证）；Oracle 宣布 2027 年起在自家云上提供谷歌 TPU，成为首家托管谷歌芯片的外部超大规模云厂商，同时把 ChatGPT 与 Codex 接入企业应用；苹果 11 月更新将为 Keynote、Pages、Numbers 加入测试版 AI 助手，并在 Mac 上开放 MCP，让外部智能体可读写文档。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Wednesday, October twenty-eighth, and today we have a math claim that could shake computer science, a chip deal that breaks an old cloud rivalry, and Apple's office apps opening up to outside AI agents. Let's get started.
+Alex: Story one starts with a bold claim. On Monday, OpenAI said one of its internal models had refuted the Exponential Time Hypothesis, a guess from nineteen ninety-nine about how hard certain puzzles are to solve. The model found the result on October sixteenth, and formalized it in Lean, a computer system that checks proofs, the next day.
+Jordan: That guess, known as ETH, has been the foundation for hundreds of papers. It says a classic puzzle called three-SAT cannot be solved much faster than trying almost every possibility. If the new claim holds, a faster counting method would exist, and a lot of those papers would need rethinking.
+Alex: And OpenAI was not alone. Hours later, Anthropic posted its own refutation, also dated October sixteenth, saying a Claude model found it with no human input. OpenAI also announced two more results the same day: a proof about waves and geometry, and an existence proof for a quantum field theory, though that physics work is being held back while outside experts write it up.
+Jordan: Here is the important caution. Lean checks that a formal proof follows its own rules, but it does not by itself settle whether the result is interpreted correctly. The review group led by Russell Impagliazzo, one of the scientists who proposed ETH, says its involvement is not a certification of the claim. So treat this as a claim under review, not a settled fact.
+Alex: Story two is about chips, and an old rivalry giving way. On Tuesday, at Oracle AI World in Las Vegas, Oracle said Google's Tensor Processing Units, or TPUs, will be available through Oracle Cloud Infrastructure, starting in twenty twenty-seven.
+Jordan: That matters because Google's chips have never before been offered on another major cloud. Oracle says it will be the first outside hyperscale cloud to host them, with one version built for training and another for inference, the work of running finished models. Oracle will provide the power, cooling, and networking to run them at scale.
+Alex: Oracle did not stop there. It also said ChatGPT and Codex will be built into its business applications, and reports say OpenAI's own Jalapeño chip and Cerebras hardware will join its cloud lineup too. Put together, Oracle is pitching itself as a place where customers can pick from many kinds of AI hardware, not just one company's chips.
+Jordan: Story three brings AI agents into everyday office work. On Tuesday, Apple announced a November update to Apple Creator Studio that adds beta AI assistants to Keynote, Pages, and Numbers, built on Apple models and OpenAI.
+Alex: In Keynote, the assistant can design and animate slides. In Pages, it can draft and reorganize text. In Numbers, it can calculate, suggest charts, and build tables. The assistants are in beta, and they work in US English only, on Apple Intelligence devices running the latest operating systems.
+Jordan: The bigger move may be the open door. On Macs running macOS twenty-seven, those three apps will support the Model Context Protocol, or MCP, so outside AI agents can read documents, make edits, and carry out actions in them. Apple's own example shows ChatGPT summarizing an open Keynote deck.
+Alex: So today we have three different kinds of opening up: a math result opened to public checking, a chip rivalry opened to a rival cloud, and office apps opened to outside agents. Each one still has questions attached, and that is exactly why they are worth watching.
+Jordan: As always, the full English transcript and this episode's vocabulary list are in the show notes.
+Alex: Thanks for listening. We'll be back tomorrow with three more, same time, same place.
+Jordan: See you then!
+
+【生词表】
+hypothesis /haɪˈpɒθəsɪs/ 假设，假说
+refute /rɪˈfjuːt/ 驳斥，证伪
+conjecture /kənˈdʒektʃər/ 猜想，推测
+formalize /ˈfɔːrməlaɪz/ 形式化（用形式系统表述）
+certification /ˌsɜːrtɪfɪˈkeɪʃən/ 认证，证明
+hyperscale /ˈhaɪpərskeɪl/ 超大规模（云计算）
+accelerator /əkˈseləreɪtər/ 加速器（芯片）
+inference /ˈɪnfərəns/ 推理（模型运行阶段）
+subscriber /səbˈskraɪbər/ 订阅用户
+protocol /ˈproʊtəkɔːl/ 协议]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP27.mp3" length="3884556" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP27.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep27</guid>
+<pubDate>Wed, 28 Oct 2026 07:30:00 +0800</pubDate>
+<itunes:duration>242</itunes:duration>
+<itunes:episode>27</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.26: Anthropic's IPO, Meta's $95B Raise, and Microsoft's 60,000 Buyouts</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 提交 IPO 招股书，将成为首家上市的纯 AI 实验室（上半年营收 163 亿美元、同比增 1300%，同时警告技术可能带来灾难性风险）；Meta 计划筹资 950 亿美元（350 亿承销募股＋600 亿市价发行）投入 AI 基建，Muse 在美加首周用户超 1000 万；微软向约 6 万名员工提供自愿买断，约占全球员工 27%，为 AI 建设腾挪人力与资金。
 
