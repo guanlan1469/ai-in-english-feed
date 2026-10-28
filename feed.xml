@@ -24,6 +24,52 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.28: Genie 4 Talks Back, Gemini 4 Carbon Guards Code, and Nvidia Listens in 40 Languages</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Google DeepMind 发布 Genie 4 世界模型，首次原生生成音频、可实时用语言操控场景，场景连贯约两分钟；Google 发布 Gemini 4 Carbon 网络安全前沿模型，先交给 Fairwind 计划的防御者、起步价与 Argon 相同；英伟达发布免费开源权重转录模型 Nemotron 3.5 Transcribe，支持 40 种语言转录、31 种语言与英语互译，单芯片可运行。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Thursday, October twenty-ninth, and today is a day of new models, each built for a different job: a world you can talk to, a model that guards computer code, and a set of ears that can listen in forty languages. Let's get started.
+Alex: Story one comes from Google DeepMind. On Tuesday, it announced Genie four, its newest world model. A world model does not just make a video clip. It builds a place you can move through in real time, predicting what happens next as you act.
+Jordan: And Genie four talks back. It is DeepMind's first real-time world model to generate audio natively, so music, background sounds, and characters speaking all come from the same simulation as the pictures. You can also steer a running scene with plain words: change the weather, move the camera, or add a person, without starting over.
+Alex: The scenes last longer, too. A scene now holds together for about two minutes, double the one minute of Genie three. That still sounds short, but it is long enough for a conversation to go somewhere, or for weather to turn while you explore. DeepMind is honest that details can still drift in longer runs.
+Jordan: For now, Genie four is a research preview for trusted testers. Google AI Ultra subscribers will get it through Project Genie, and early partners will get it through the Gemini API and Google AI Studio, with a waitlist open for everyone else. Every video and audio clip it makes will carry SynthID, Google's invisible watermark.
+Alex: Story two stays with Google, but moves from imaginary worlds to real computer security. On Wednesday, Google unveiled Gemini four Carbon, a frontier model built for cybersecurity and long, complex coding work.
+Jordan: Google says Carbon performs at the top level on cybersecurity tasks like finding vulnerabilities, exploiting them in tests, and patching software. It also says Carbon writes secure code at more than twice the success rate of Gemini four Argon on Google's own internal benchmarks, so treat that comparison as the company's own claim.
+Alex: What is striking is who gets it first. Carbon is going first to a subset of cyber defenders through Google's Fairwind Program, while Google keeps testing its safeguards. There is no date yet for a wider release, and the introductory price matches Argon: two dollars per million input tokens, and ten dollars per million output tokens.
+Jordan: The idea is clear. The same kind of model that can find holes in software is powerful in the wrong hands, so Google is handing it to defenders first and watching how it behaves before it goes wider. It is a release strategy as much as a technical launch.
+Alex: Story three is about listening. On Wednesday, Nvidia released Nemotron three point five Transcribe, a free, open-weight model that turns speech into text in up to forty languages.
+Jordan: It can also translate thirty-one languages to and from English, handle recordings up to an hour long, and tell up to eight speakers apart. Nvidia says it beats rivals on benchmarks, including Hugging Face's Open ASR Leaderboard, which is a public test for speech recognition.
+Alex: The target is practical work: business meetings and medical transcription, where getting every word right matters. Nvidia also released version two of Granary, its open speech dataset, so developers can tune the model to an industry's jargon in each language.
+Jordan: There is one limit worth noting. Transcribe works with recorded audio, not livestreams. But at thirty billion parameters, Nvidia says it can run on a single chip, from a robotics controller to a data center chip, so a good transcriber no longer needs a whole server room.
+Alex: So today we have three different answers to the same question: what should a new model be for? A world that talks back, a defender that guards code, and ears that understand forty languages.
+Jordan: As always, the full English transcript and this episode's vocabulary list are in the show notes.
+Alex: Thanks for listening. We'll be back tomorrow with three more, same time, same place.
+Jordan: See you then!
+
+【生词表】
+world model /wɜːrld ˈmɑːdl/ 世界模型
+photorealistic /ˌfoʊtoʊˌriːəˈlɪstɪk/ 照片般逼真的
+steer /stɪr/ 操控；引导
+dialogue /ˈdaɪəlɔːɡ/ 对话
+vulnerability /ˌvʌlnərəˈbɪləti/ 漏洞
+exploitation /ˌeksplɔɪˈteɪʃn/ 漏洞利用（测试性攻击）
+patch /pætʃ/ 补丁；修补
+defender /dɪˈfendər/ 防御者
+transcribe /trænˈskraɪb/ 转录
+multilingual /ˌmʌltiˈlɪŋɡwəl/ 多语言的
+watermark /ˈwɔːtərmɑːrk/ 水印]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP28.mp3" length="3890408" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP28.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep28</guid>
+<pubDate>Thu, 29 Oct 2026 07:30:00 +0800</pubDate>
+<itunes:duration>243</itunes:duration>
+<itunes:episode>28</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 <title>AI in English, Ep.27: AI Challenges a 27-Year-Old Guess, Oracle Hosts Google Chips, and Apple Opens Office Apps to Agents</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 与 Anthropic 称其模型证伪了 1999 年的指数时间假设（Lean 形式化已公开，但评审小组强调参与不等于认证）；Oracle 宣布 2027 年起在自家云上提供谷歌 TPU，成为首家托管谷歌芯片的外部超大规模云厂商，同时把 ChatGPT 与 Codex 接入企业应用；苹果 11 月更新将为 Keynote、Pages、Numbers 加入测试版 AI 助手，并在 Mac 上开放 MCP，让外部智能体可读写文档。
 
