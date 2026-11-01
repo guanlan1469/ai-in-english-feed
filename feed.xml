@@ -24,6 +24,52 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.32: Qwen for iPhones in China, an AI-Powered Break-In, and New York's Tougher AI Rules</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：苹果与阿里巴巴合作，Qwen 将为中国 iPhone 提供 Apple Intelligence，11 月 4 日进开发者测试版、12 月随 iOS 27.3 上线；Chainalysis 披露遭“进攻性智能体技术”攻击，客户姓名邮箱被访问；纽约新法案拟给大型 AI 开发商设算力上限与每日最高 300 万美元罚款。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Monday, November 2, and today's stories go from China to New York, with a security warning in between. Let's get started.
+Alex: Story one is about a phone that is finally getting its AI brain in China. Apple and Alibaba announced on Saturday that Alibaba's Qwen model will power Apple Intelligence for users in China.
+Jordan: Testing starts on November 4, in the latest iOS developer beta, and the public rollout comes with iOS 27.3 in December. The features cover Siri, Writing Tools, and Visual Intelligence.
+Alex: In practice, that means Siri can call on Qwen's broader knowledge to answer questions, and you can ask Qwen about photos and documents, including PDF files and presentations. Writing Tools gets a Compose feature that can write original content, and even images, from scratch.
+Jordan: There is an important detail here. Outside China, some Apple Intelligence requests go to ChatGPT. Inside China, they go to Qwen instead. And the new Siri AI, the rebuilt assistant that arrived elsewhere with iOS 27, is not part of this package.
+Alex: The integration is opt-in. Apple says it asks for consent before any question, document, or image is sent to Qwen, and Alibaba says requests and responses will not be used to train its models.
+Jordan: It is also iPhone-only for now, on iPhone 15 Pro and later models, with the device and Siri set to English or Simplified Chinese, and support for other platforms only after the necessary approvals.
+Alex: Story two is a security warning, and it comes with some irony. Chainalysis, the blockchain analytics firm whose tools help law enforcement and banks trace crypto crime, says an attacker broke into its own systems.
+Jordan: The company disclosed the incident on Friday. It says an external actor used what it calls offensive agentic techniques, meaning AI agents carrying out multi-step attacks with little human direction, to get into its internal systems and tools earlier in October.
+Alex: What was taken? User IDs, full names, email addresses, and organisation role labels. Chainalysis calls that data non-sensitive, and says it has found no evidence that investigation content, passwords, multi-factor secrets, or session tokens were reached.
+Jordan: What the company did not say matters too. It has not named the attacker, the entry point, or how long the attacker was inside, and it has not said how many customers were affected. The main risk now is targeted phishing against the investigators and compliance staff whose names and employers are exposed.
+Alex: Chainalysis also stressed twice that the incident is not related to the recent Binance theft, the roughly $6.3 billion hack it is currently helping to trace. And in a nice twist, the company says it is now using large language models to support a broader security review of its own platform.
+Jordan: Story three takes us to New York, where lawmakers want tougher rules for the biggest AI developers. Senate Bill S.10731 would strengthen the state's RAISE Act, which becomes mandatory in January.
+Alex: The bill was unveiled on October 29 by State Senator Andrew Gounardes, with Assemblymember Jordan Wright and Senator Patricia Fahy. It was filed on October 28 and sent to the Senate Rules Committee. It has not passed either chamber, so for now, it is a proposal, not a law.
+Jordan: If it passes, large developers would file quarterly reports on automated AI research and computing use, face fines of up to $3 million a day for repeat violations, and answer to a new state office called DIGIT, which could cap the computing power used to train new models.
+Alex: That last power is the striking one. A state office that can limit how much compute goes into training a new model would be a new kind of speed limit for AI development, and other states will be watching what New York does next.
+Jordan: So today: a new brain for iPhones in China, an attacker turning AI agents against the crypto detectives, and a state that wants to put a cap on training runs. Three stories, one shared question: who gets to set the rules for AI, and how far should those rules reach?
+Alex: That's all for today. Thanks for listening, and we'll see you tomorrow with three more stories. Bye for now.
+
+【生词表】
+opt-in /ˈɒpt ɪn/ 选择加入的
+developer beta /dɪˈveləpər ˈbeɪtə/ 开发者测试版
+rollout /ˈroʊlaʊt/ 推出，上线
+agentic /əˈdʒentɪk/ 智能体化的，能自主执行多步任务的
+breach /briːtʃ/ 侵入，泄露
+phishing /ˈfɪʃɪŋ/ 网络钓鱼
+provisioned /prəˈvɪʒənd/ 已开通的
+cap /kæp/ 上限
+quarterly /ˈkwɔːrtərli/ 按季度的
+compute /kəmˈpjuːt/ 算力]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP32.mp3" length="4193010" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP32.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep32</guid>
+<pubDate>Mon, 02 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>262</itunes:duration>
+<itunes:episode>32</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.31: A Haiku from Space, a Trillion-Parameter Model, and Tighter Teen Rules</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：谷歌 Project Suncatcher 在轨卫星上跑出第一条完整 AI 回复（一首俳句）；Mistral 发布 1 万亿参数的 Large 4 模型权重；OpenAI 收紧 ChatGPT 青少年账号限制，暴力话题下可主动结束对话。
 
