@@ -24,6 +24,54 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.34: Anthropic's huge promise, Marvell's huge deal, and agents taking over</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 在更新的 IPO 文件中披露约 8954 亿美元算力相关承诺，并警告 AI 研究可能加速；Marvell 以约 1150 亿美元全股票收购光学元器件厂商 Lumentum；Menlo Ventures 报告显示企业 AI 支出一年涨至 1768 亿美元，智能体已占 OpenRouter token 的 80%。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Wednesday, November fourth, and today is all about scale: a promise worth hundreds of billions of dollars, a deal worth more than a hundred billion, and a market that grew five times in a year. Let's get started.
+Alex: Story one is about Anthropic, the company behind Claude, and a filing that made a lot of people stop and stare.
+Jordan: On November second, Anthropic updated its IPO filing, and in it, the company disclosed about eight hundred ninety-five point four billion dollars in purchase and lease commitments, mostly for computing power and infrastructure.
+Alex: To be clear, that is not a bill due tomorrow. It is a stack of multi-year commitments. About four hundred forty-seven point five billion dollars of it is expected by the end of twenty thirty, and much of the rest runs through twenty forty-five.
+Jordan: Still, the scale is extraordinary. The same filing also reported roughly seventeen billion dollars in third-quarter revenue, which shows how fast the business is growing, and how much computing it needs to keep growing.
+Alex: And there is a second warning tucked into that filing. Anthropic says its own estimates indicate it may soon meet its definition of dramatically accelerated progress attributable to AI. In plain language, AI could soon start speeding up AI research itself, faster than researchers can evaluate the results.
+Jordan: That is the company's own safety threshold, not a prediction that something has already gone wrong. But it is a striking thing for a company to say about itself, in a document meant to attract investors.
+Alex: Story two moves from computing promises to the hardware that makes them possible. Marvell has agreed to buy Lumentum, in an all-stock deal valued at about one hundred fifteen billion dollars.
+Jordan: The deal was announced on November second. Lumentum shareholders would receive four point five Marvell shares for each share they own, and Marvell shareholders would end up owning about sixty-seven percent of the combined company.
+Alex: Why does this matter? Lumentum makes optical components, the lasers and parts that move data as light through fiber networks. Marvell makes chips and networking technology. Put them together, and you get a bigger slice of the connection between AI chips.
+Jordan: And that connection is now a bottleneck. As data centers pack in more and more chips, moving data between them quickly, as pulses of light rather than electricity through copper wire, becomes faster and more efficient.
+Alex: One caution: this is a proposed deal, not a finished one. It still needs shareholder and regulatory approval, and the companies expect it to close in the first half of twenty twenty-eight, if it closes at all.
+Jordan: Story three is about who is actually paying for all of this. Menlo Ventures released its twenty twenty-six State of Enterprise AI report on November third, and the headline number is huge.
+Alex: Enterprise AI spending reached one hundred seventy-six point eight billion dollars by September, up from thirty-three billion dollars last year. That is more than five times as much, in a single year.
+Jordan: But here is the twist. The share of companies paying for AI rose only modestly, from fifty-five percent to sixty-five percent. So most of the growth came from companies that were already buying AI, and simply spent a lot more.
+Alex: And the biggest spenders are no longer people. On OpenRouter, a platform that routes requests to different models, agents now generate eighty percent of all tokens, roughly seven times human usage. Since agents overtook humans in February, agent token use has grown thirty-seven times, compared with five times for humans.
+Jordan: The report also found that for every dollar spent training AI models this year, companies spent one dollar and seventy cents putting AI to work. In other words, the real money is no longer in building the model. It is in using it.
+Alex: So today: Anthropic locks in computing on a scale that is hard to imagine, Marvell bets that light will carry the AI boom, and companies show that agents are no longer an experiment. They are the ones doing the work.
+Jordan: That's all for today. Thanks for listening, and we'll see you tomorrow with three more stories. Bye for now.
+
+【生词表】
+commitment /kəˈmɪtmənt/ 承诺；支出义务
+infrastructure /ˈɪnfrəstrʌktʃər/ 基础设施
+disclosure /dɪˈskloʊʒər/ 披露
+extraordinary /ɪkˈstrɔːrdəneri/ 非凡的；巨大的
+accelerated /əkˈseləreɪtɪd/ 加速的
+attributable /əˈtrɪbjətəbəl/ 可归因于……的
+shareholder /ˈʃerhoʊldər/ 股东
+optical /ˈɒptɪkəl/ 光学的
+bottleneck /ˈbɑːtlnek/ 瓶颈
+modestly /ˈmɒdɪstli/ 适度地；小幅地
+surge /sɜːrdʒ/ 激增]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP34.mp3" length="3992808" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP34.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep34</guid>
+<pubDate>Wed, 04 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>249</itunes:duration>
+<itunes:episode>34</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.33: OpenAI Caps, Agents Blocked, and No Game Clones</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 给付费 ChatGPT 加设备与银行卡上限，12 月起 ChatGPT 与 Codex 共用 token 额度；摩根大通、亚马逊等封堵外部 AI 智能体，51 家零售商审计显示多数尚无明确立场；Anthropic 要求 Claude Code 不再复刻现有电子游戏。
 
