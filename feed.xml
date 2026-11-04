@@ -24,6 +24,57 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.35: Don't Train, One-Fifth of Google, and No to Data Centers</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Google、微软、OpenAI、Anthropic 支持共享的 robots.txt“不训练”信号，但只是请求而非强制；OpenAI 称 ChatGPT 的类搜索查询量约达 Google 的五分之一（公司自有统计口径）；中期选举中 41 项数据中心议案除 1 项外都朝着限制方向发展。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Thursday, November fifth, and today the AI world meets three kinds of pushback: from website owners, from a rival in search, and from voters at the ballot box. Let's get started.
+Alex: Story one is about a small file with a big message. On October thirtieth, Google, Microsoft, OpenAI, and Anthropic said they will honor a shared signal that website owners can put in robots.txt.
+Jordan: robots.txt is a small file that tells the programs roaming the internet what they may copy. The new entry says one thing: don't use this site to train your AI.
+Alex: The idea comes from a proposed internet standard written by Anthropic engineer Kevin Kelley. The point is to give publishers one switch, instead of a different opt-out for every company.
+Jordan: But let's be clear about what it is not. It is a request, not a lock. It cannot stop a program from reading a page, it removes nothing already used, and it binds only the companies that agree to it.
+Alex: And none of them has switched it on yet. Microsoft says it will start on February first, twenty twenty-seven. Google says early twenty twenty-seven. OpenAI and Anthropic have set no date. Meta supports the idea but has made no commitment.
+Jordan: The companies also read the sign differently. At Google, "don't train" may also keep a site out of its Gemini assistant's answers. Microsoft keeps those choices separate.
+Alex: Still, it matters. For years, publishers complained that they had no simple way to say no. Now the biggest AI companies are, at least on paper, agreeing to listen.
+Jordan: Story two is about search, and a number that got a lot of attention. OpenAI says ChatGPT's search-like queries are now roughly one-fifth the volume of Google's queries.
+Alex: The figure comes from Adam Fry, ChatGPT's consumer product lead, speaking at an OpenAI dinner in New York on November second. The conversation was published by Big Technology on November third.
+Jordan: Fry also said ChatGPT has reached one point two billion weekly users, and that two hundred fifty million people a week use its voice features.
+Alex: Now, the fine print matters. This is OpenAI's own count, not an independent measurement. OpenAI counts a search as any question that makes ChatGPT go and look things up on the web.
+Jordan: And Fry did not say which Google figure he compared against, over what period, or for which regions. So this is not proof that ChatGPT has taken twenty percent of the search market. It is a company claim, using the company's own definition.
+Alex: Even so, the direction is hard to ignore. Asking a chatbot to search the web was a novelty not long ago. Now, by OpenAI's count, it happens at a scale that is a meaningful fraction of Google's.
+Jordan: Story three takes us to the ballot box. In Tuesday's midterm elections, voters across America were asked about data centers, the huge buildings that power AI, and in almost every case, they said: slow down.
+Alex: According to Ballotpedia, forty-one data center-related measures were on local ballots on November third, and all but one broke in the anti-data-center direction.
+Jordan: The restrictions ranged from full bans to temporary pauses and new zoning rules. In Edgewater, Florida, voters backed adding a total ban on data centers to the city charter. In Alhambra, California, voters overwhelmingly voted to ban them.
+Alex: Ohio was the front line, with twenty-one measures on ballots there. Voters there moved to restrict the facilities in every measure counted so far.
+Jordan: The only community that voted against a proposed restriction was Harwood, North Dakota, a town of fewer than one thousand people, where about seventy-five percent of voters rejected the new requirements.
+Alex: Exit polls from NBC News found that for fifty-six percent of voters, AI and data centers were a crucial or major factor in their vote for Congress. And about seventy-six percent said they would oppose building new data centers in their own communities.
+Jordan: That is a striking contrast. Companies are signing huge deals to build more computing power, while voters in town after town are voting to keep that power out of their neighborhoods.
+Alex: So today: publishers get a shared way to say "don't train on my work," ChatGPT claims a search volume one-fifth the size of Google's, and voters send the AI buildout a clear message: not in my community.
+Jordan: That's all for today. Thanks for listening, and we'll see you tomorrow with three more stories. Bye for now.
+
+【生词表】
+opt-out /ɑːpt aʊt/ 选择退出
+publisher /ˈpʌblɪʃər/ 出版商；网站主
+bind /baɪnd/ 约束；使受约束
+novelty /ˈnɑːvəlti/ 新奇事物
+caveat /ˈkæviæt/ 注意事项；保留条款
+ballot /ˈbælət/ 选票；投票表决
+moratorium /ˌmɔːrəˈtɔːriəm/ 暂停令
+zoning /ˈzoʊnɪŋ/ 土地分区规划
+charter /ˈtʃɑːrtər/ 章程；宪章
+exit poll /ˈeksɪt poʊl/ 出口民调]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP35.mp3" length="4312128" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP35.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep35</guid>
+<pubDate>Thu, 05 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>269</itunes:duration>
+<itunes:episode>35</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 <title>AI in English, Ep.34: Anthropic's huge promise, Marvell's huge deal, and agents taking over</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 在更新的 IPO 文件中披露约 8954 亿美元算力相关承诺，并警告 AI 研究可能加速；Marvell 以约 1150 亿美元全股票收购光学元器件厂商 Lumentum；Menlo Ventures 报告显示企业 AI 支出一年涨至 1768 亿美元，智能体已占 OpenRouter token 的 80%。
 
