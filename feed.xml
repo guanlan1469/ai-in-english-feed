@@ -24,6 +24,55 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.36: GPT-6 Cyber, Claude Reads Your Bank, and Longer AI Video</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：OpenAI 发布 GPT-6 Cyber，首次给出 Critical 网络安全评级，只向 Daybreak Red 的授权客户开放；Anthropic 给 Claude 加上个人理财功能，只读接入银行账户；Google 正式推出 Gemini Omni 1.2 Flash，视频可达 15 秒，价格便宜约三成。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Friday, November 6, and today we've got a cyber security model with a warning label, a chatbot that wants to read your bank account, and AI video that just got longer and cheaper. Let's get started.
+Alex: Story one is OpenAI's newest model, and it comes with the strongest warning the company has ever given. It's called GPT-6 Cyber, and OpenAI rates it Critical for cybersecurity.
+Jordan: Critical is a new top rating. The previous cyber model, GPT-5.6 Cyber, was rated High. So this is a step up, and a step that OpenAI is treating very carefully.
+Alex: Right. GPT-6 Cyber is not for everyone. At launch, it is only available to a small group of approved customers in OpenAI's Daybreak Red program, for authorized security work.
+Jordan: Daybreak Red is OpenAI's program for vetted security teams. And there's a new rule: IP allowlisting is now required by default for Daybreak Red API access. So OpenAI is tightening who can even reach the model.
+Alex: OpenAI says the model scores 48.5% on its own ExploitGym benchmark, against 42.4% for GPT-6 Astra. But remember, those are OpenAI's own numbers. No independent test yet.
+Jordan: And it will roll out to all Daybreak Red members in the coming weeks. The big question is what a model like this can do in the wrong hands, which is exactly why it is locked behind that door.
+Alex: Story two: Claude can now look at your money. Anthropic has launched Personal Finance in Claude, a US beta for Pro, Max, and Ultra subscribers.
+Jordan: Here's how it works. You link your bank accounts through Plaid, and Claude can read your balances and up to 24 months of transactions. Read-only, it can look, but it cannot move money.
+Alex: So you can ask Claude things like: where is my money going, or am I spending too much on takeout? And it can answer from your real numbers, not guesses.
+Jordan: There are two details worth knowing. First, this follows a similar finance preview from ChatGPT back in May. But Anthropic says chats in the Personal Finance hub are not used to train its models.
+Alex: Second, be careful what you share. If you share a chat or publish an artifact built on your linked accounts, anyone who opens it can see your account figures, and they stay visible even after you unlink the bank.
+Jordan: So it's useful, but it is also a good moment to check what you are sharing. Your bank balance is not something you want to leak in a screenshot.
+Alex: Story three takes us to Google, and to AI video. Google has made Gemini Omni 1.2 Flash generally available, and it makes longer clips for less money.
+Jordan: The big change: clips can now run up to 15 seconds, up from 10. And the price for 720p video drops from about 10 cents a second to about 7 cents, roughly 30% cheaper.
+Alex: Put together, a full fifteen-second clip now costs about what a ten-second clip cost before. So you get 50% more video for the same money.
+Jordan: Google also says the model has multi-turn conversational editing and better reference following. You can keep refining a clip in a conversation, instead of starting over each time.
+Alex: One date to note: on December 3, API calls to the older Omni 1.1 Flash will move to 1.2 Flash and its prices automatically. So if you build with it, test the output and update your cost estimates before then.
+Jordan: So today: OpenAI locks its most powerful cyber model behind a velvet rope, Claude starts reading bank statements, and Google gives you longer AI video for less.
+Alex: That's all for today. Thanks for listening, and we'll see you tomorrow with three more stories. Bye for now.
+
+【生词表】
+critical /ˈkrɪtɪkəl/ 关键的；至关重要的
+vet /vet/ 审查；审核
+allowlist /əˈlaʊlɪst/ 白名单；许可名单
+benchmark /ˈbentʃmɑːrk/ 基准测试
+exploit /ɪkˈsplɔɪt/ 漏洞利用
+read-only /ˈriːd ˌoʊnli/ 只读的
+transaction /trænˈzækʃən/ 交易；交易记录
+takeout /ˈteɪkaʊt/ 外卖（食品）
+clip /klɪp/ 短片；片段
+refine /rɪˈfaɪn/ 改进；完善
+estimate /ˈestɪmət/ 估算；估计]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP36.mp3" length="3618734" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP36.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep36</guid>
+<pubDate>Fri, 06 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>226</itunes:duration>
+<itunes:episode>36</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+     <item>
 <title>AI in English, Ep.35: Don't Train, One-Fifth of Google, and No to Data Centers</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Google、微软、OpenAI、Anthropic 支持共享的 robots.txt“不训练”信号，但只是请求而非强制；OpenAI 称 ChatGPT 的类搜索查询量约达 Google 的五分之一（公司自有统计口径）；中期选举中 41 项数据中心议案除 1 项外都朝着限制方向发展。
 
@@ -75,6 +124,7 @@ exit poll /ˈeksɪt poʊl/ 出口民调]]></description>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
 <title>AI in English, Ep.34: Anthropic's huge promise, Marvell's huge deal, and agents taking over</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 在更新的 IPO 文件中披露约 8954 亿美元算力相关承诺，并警告 AI 研究可能加速；Marvell 以约 1150 亿美元全股票收购光学元器件厂商 Lumentum；Menlo Ventures 报告显示企业 AI 支出一年涨至 1768 亿美元，智能体已占 OpenRouter token 的 80%。
 
