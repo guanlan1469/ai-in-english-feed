@@ -24,6 +24,53 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.38: DeepMind Cracks Old Encryption, Anthropic Speeds Itself Up, and Meta Buys Conductor</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：DeepMind 的 AI 智能体在旧版 1024 位 RSA 加密上找到两处新弱点，签名伪造速度提升约 1600 倍；独立评估机构 METR 估计 Anthropic 的研究速度加快约 1.9 倍，其中约八成来自 AI 协助；Meta 收购了能并行运行多个 AI 编程智能体的 Mac 工具 Conductor，其云服务 11 月 20 日关闭。
+
+
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Sunday, November 8, and today we've got an AI that cracked old encryption, a lab whose research is speeding itself up, and a big buyout in the world of coding agents. Let's get started.
+Alex: Story one takes us into the world of secret codes. Google DeepMind says its AI agents have found two new ways to weaken an old form of encryption called RSA, with 1024-bit keys.
+Jordan: RSA is the math behind digital signatures, the stamps that prove a software update or a document really comes from who it claims to. The 1024-bit version is old now, mostly replaced by stronger keys, but some systems still use it.
+Alex: Here's the first finding. Digital signatures add extra preset information, called padding, before signing. Padding was supposed to stop forgery, but DeepMind's agents found that once an attacker controls about half of the signed data, padding offers almost no extra protection.
+Jordan: And even when an attacker controls only a small piece, like a 32-byte fingerprint, the agents found a new method that is theoretically about 1,600 times faster than the best previous attack on 1024-bit keys.
+Alex: The second finding is about factoring, the hard math problem behind RSA. The agents found a better way to factor many keys at once, cutting the average cost of each additional key by about 30 times.
+Jordan: Before anyone panics, the important caveat: modern encryption is unaffected. Today's systems use 2048-bit keys or larger, and DeepMind says those are still safe. But the message is clear: AI can now help stress-test the math our security rests on, much faster than humans alone.
+Alex: Story two is about AI speeding up AI itself. The independent evaluator METR published a report on November 5, looking at Anthropic, the company behind Claude.
+Jordan: METR estimates that Anthropic's scores on well-defined research tasks have been improving about 1.9 times faster since October of last year. And it judges, with high uncertainty, that about 80% of that speedup comes from AI assistance, not from more computing power.
+Alex: That's a striking claim, but read it with care. Anthropic redacted, or blacked out, most of the evidence METR found most useful, saying it could help competitors. So readers have to trust METR's judgment more than usual.
+Jordan: METR also agreed with Anthropic that the catastrophic risk from the models it examined in July was low, but said it was plausible an early warning threshold had already been crossed. The big picture: AI is starting to accelerate its own development, and outside checkers are struggling to see the full picture.
+Alex: Story three is a business move. Meta has acquired Conductor, a Mac tool that lets developers run several AI coding agents at the same time, in parallel workspaces.
+Jordan: Conductor works with agents from Anthropic, OpenAI, and Cursor, so it sits above the rival labs rather than belonging to one of them. Meta confirmed the deal to TechCrunch on November 4, but the price was not disclosed.
+Alex: Here's the catch for users. Conductor's cloud service goes read-only on November 13 and shuts down permanently on November 20. After that, cloud data will be deleted, so users have about two weeks to move their work.
+Jordan: The core features keep working on the Mac for now, until early next year. Still, it's a familiar pattern in AI: the big labs are buying the tools around coding agents, and the smaller services keep getting folded in.
+Alex: So today: DeepMind's AI found new cracks in old encryption, Anthropic's research is moving about twice as fast with AI's help, and Meta bought the tool that runs coding agents side by side.
+Jordan: That's all for today. Thanks for listening, and we'll see you tomorrow with three more stories. Bye for now.
+
+
+encryption /ɪnˈkrɪpʃən/ 加密
+signature /ˈsɪɡnətʃər/ 签名
+forgery /ˈfɔːrdʒəri/ 伪造
+padding /ˈpædɪŋ/ 填充
+factor /ˈfæktər/ 分解（因数）
+caveat /ˈkæviæt/ 注意事项；警告
+accelerate /əkˈseləreɪt/ 加速
+redact /rɪˈdækt/ 涂黑；删节
+threshold /ˈθreʃhoʊld/ 阈值；临界点
+acquire /əˈkwaɪər/ 收购
+parallel /ˈpærəlel/ 并行的]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP38.mp3" length="3822280" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP38.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep38</guid>
+<pubDate>Sun, 08 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>239</itunes:duration>
+<itunes:episode>38</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+ <item>
 <title>AI in English, Ep.37: An AI That Operates on Another AI, a Poisoned Extension, and Chips in Orbit</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：MIT 研究人员让 GPT-6 Astra 直接编辑另一个 AI 模型的权重，数学得分大幅提升；攻击者通过 Anthropic 自己的账号在 Cursor 市场发布了被毒化的 Claude 扩展；Google 的 TPU 在太空卫星上启动，Gemma 4 写下了第一首太空俳句。
 
