@@ -24,6 +24,55 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.39: Anthropic's IPO Roadshow, Claude Code's Leaked Secrets, and AI in the Wet Lab</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 本周启动 IPO 路演，估值已从 2 万亿美元回落；Claude Code 的“不再询问”按钮把 2539 个真实密钥泄露到了公开 GitHub 上；OpenAI 的 BioBasicsBench 显示，AI 在湿实验室里还做不出可靠判断。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Monday, November 9, and today we've got an IPO roadshow about to begin, a coding assistant that leaked real passwords, and a new test of AI in the biology lab. Let's get started.
+Alex: Story one is about money, and a lot of it. Anthropic, the company behind Claude, is expected to start its IPO roadshow this week, pitching its shares to big investors before going public.
+Jordan: Reports say Anthropic wants to list on the Nasdaq during the week of November 16, before Thanksgiving, and raise between $80 and $100 billion, at a valuation of between 1.25 and 1.75 trillion dollars.
+Alex: That is huge, but it is also a step down. In early October, the most optimistic investors were talking about $2 trillion. Then tech stocks sold off sharply last week, and the numbers came down fast.
+Jordan: Here is the important caveat: none of these numbers are official. Anthropic's filing with the SEC, from November 2, still leaves the share price blank, and the company has declined to comment. What the filing does show is scale: $17 billion of revenue in just the last three months, up more than 11 times from a year earlier.
+Alex: Even at the lower end, this would still be one of the biggest listings ever, if investors are still in the mood to pay up after last week's selloff.
+Jordan: Story two is a warning for anyone who codes with AI. Security firm Apiiro found that Claude Code, Anthropic's coding assistant, can quietly leak real passwords and API keys onto public GitHub.
+Alex: Here is how it happens. When Claude Code asks permission to run a shell command, you can click "Yes, and don't ask again," and it saves that command so it never asks you again. But it saves the command word for word, password included, in a settings file called settings.local.json.
+Jordan: And if that file gets committed and pushed to a public repository, the secret goes with it. Apiiro examined more than 104,000 public copies of the file, and 1,122 of them contained at least one real secret: 1,379 credentials in total, including 379 database passwords.
+Alex: Counting git history and saved chat transcripts, the total reaches 2,539 secrets across nearly 2,000 repositories. Two popular secret scanners each caught only about half of the affected files, and 215 files slipped past both of them.
+Jordan: One company Apiiro notified confirmed its exposed key had been live. And this is not new: the same problem was reported on GitHub back in August of last year. Anthropic has not commented.
+Alex: The fix is simple: check your settings files before you commit, and never put a password in a command you approve.
+Jordan: Story three takes us into the biology lab. OpenAI has released a new benchmark called BioBasicsBench, built with biotech company Ligo, that tests whether AI agents can handle everyday wet-lab science.
+Alex: The benchmark gives the AI 100 tasks drawn from real experiments, with messy, raw evidence to read: gel images, microscope photos, sequencing files, and colony plates.
+Jordan: The best model, GPT-6 Astra, earned 66.7% of the available credit at the highest reasoning setting. The older GPT-5.6 Sol managed 43.8%. Those are partial-credit scores, not tasks solved.
+Alex: And OpenAI is honest about the gaps. Astra still picked the wrong lanes in a colony test and overcounted colonies by about 12%. OpenAI's own summary is blunt: "Higher benchmark scores do not yet mean models can make reliable judgments in the lab."
+Jordan: Two more caveats: only OpenAI's own models were tested, and the tasks have not been released, so outside researchers cannot yet check the scores. Still, the direction is clear: AI is moving from textbook questions to the messy evidence scientists actually work with, and the gap is still wide.
+Alex: So today: Anthropic's IPO roadshow begins with a valuation already down from $2 trillion; Claude Code's "don't ask again" button leaked thousands of real secrets; and OpenAI's lab benchmark shows AI still can't judge experiments on its own.
+Jordan: That's all for today. Thanks for listening, and we'll see you tomorrow with three more stories. Bye for now.
+
+【生词表】
+roadshow /ˈroʊdʃoʊ/ 路演
+valuation /ˌvæljuˈeɪʃən/ 估值
+selloff /ˈselɔːf/ 抛售
+caveat /ˈkæviæt/ 注意事项；警告
+credential /krəˈdenʃəl/ 凭证
+repository /rɪˈpɑːzətɔːri/ 代码仓库
+scanner /ˈskænər/ 扫描器
+transcript /ˈtrænskrɪpt/ 文字记录
+wet lab /wet læb/ 湿实验室
+benchmark /ˈbentʃmɑːrk/ 基准测试
+colony /ˈkɑːləni/ 菌落
+judgment /ˈdʒʌdʒmənt/ 判断力]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP39.mp3" length="4319234" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP39.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep39</guid>
+<pubDate>Mon, 09 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>270</itunes:duration>
+<itunes:episode>39</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.38: DeepMind Cracks Old Encryption, Anthropic Speeds Itself Up, and Meta Buys Conductor</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：DeepMind 的 AI 智能体在旧版 1024 位 RSA 加密上找到两处新弱点，签名伪造速度提升约 1600 倍；独立评估机构 METR 估计 Anthropic 的研究速度加快约 1.9 倍，其中约八成来自 AI 协助；Meta 收购了能并行运行多个 AI 编程智能体的 Mac 工具 Conductor，其云服务 11 月 20 日关闭。
 
