@@ -24,6 +24,53 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.40: Nvidia Probes Its CEO, Claude Fable 5.2 Arrives, and Robots Get Open World Models</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：英伟达董事会就 CEO 黄仁勋被指成为外国情报目标展开独立调查；Anthropic 发布 Claude Fable 5.2，又快又便宜；英伟达开源 Cosmos 3 世界模型，机器人和自动驾驶汽车都能在模拟里练手。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Tuesday, November tenth, and today we've got a boardroom investigation at the world's most valuable chip company, a brand-new Claude model, and open world models for robots and self-driving cars. Let's get started.
+Alex: Story one starts at Nvidia, the company whose chips power almost every AI system on the planet. On Sunday, its board announced an independent investigation into its own chief executive, Jensen Huang.
+Jordan: The investigation follows reports that Huang was the target of a foreign intelligence effort. The reports center on Alice Huang, an executive at Megaspeed, a Singapore-based data center company and an Nvidia customer. According to press reports, a US intelligence memo claimed China's Ministry of State Security had recruited her to spy on Nvidia's chief executive.
+Alex: Let me be careful here, because this matters. The spying allegation comes from press reports, not from Nvidia, and nothing has been proven. What is confirmed is this: on the same day, Huang sent a memo to all Nvidia employees admitting he had been unfaithful to his wife and taking full responsibility.
+Jordan: The board says a committee of independent directors, helped by outside lawyers, will oversee the investigation. It also says the board has no reason to believe that national security or Nvidia's secrets were compromised, but the review will examine all available information.
+Alex: The timing is awkward. Nvidia reports third-quarter earnings on November seventeenth, and the next day Huang is due to sit for a closed-door briefing with lawmakers in Washington. The board has not said when the investigation will finish, or whether it will publish what it finds.
+Alex: Story two is a much happier one for Anthropic. On Monday, the company released Claude Fable 5.2 and Claude Mythos 5.2, its new top models for the hardest technical work. The two share the same underlying engine, but with different safeguards: Fable 5.2 is open to everyone, while Mythos 5.2 has fewer blocks around cyber and biology work, and is only available to vetted organizations.
+Alex: Anthropic says Fable 5.2 writes up to thirty percent faster than Fable 5.1, and it costs less too: eight dollars per million input tokens and forty dollars per million output tokens, down from ten and fifty. There is also an optional fast mode that runs up to two and a half times faster, for sixteen and eighty dollars.
+Jordan: And Anthropic is showing off with a very nerdy flex. It says one thousand Claude agents working together formalized Fermat's Last Theorem, one of the most famous proofs in mathematics, in just thirty hours. One independent benchmark tracker already puts Fable 5.2 in its top ten.
+Alex: Fable 5.2 is available now in the Claude apps, Claude Code, and the Claude Platform, as well as on Amazon Web Services, Google Cloud, and Microsoft Azure. And for the launch week, Pro and Team users get it included free until November sixteenth.
+Alex: Story three takes us back to Nvidia, but to its open-source side. Last week, the company released four open-weight checkpoints from its Cosmos 3 family of world models.
+Jordan: These are models that predict what a camera or a lidar sensor would see next. Two of them serve self-driving cars: one generates synchronized driving video from up to eleven camera views, plus matching lidar, and the other streams those observations in real time. The other two serve robots: one turns a physics simulator into video, and the other predicts what a robot will see as it moves its arms.
+Alex: All four are post-trained versions of Cosmos 3 Nano, each with sixteen billion trainable parameters, and they ship under a license called OpenMDW 1.1, which Nvidia says permits commercial use. Nvidia also published the full post-training recipes, not just the weights, so teams can adapt the models to their own sensors and robots.
+Jordan: The catch is the hardware: generating with these models takes fifty-eight gigabytes of video memory, or forty-four in a lighter format. That is workstation territory, not a laptop. And Nvidia is honest about the limits: it says more work is needed to measure how faithfully these models support real robot training. Still, open world models are a big step for physical AI.
+Jordan: That's our three stories for today. A board investigation at Nvidia, a faster and cheaper Claude, and open world models for robots and cars.
+Alex: Thanks for listening, and we'll be back tomorrow with three more stories. Until then, keep learning, and keep listening.
+
+【生词表】
+probe /proʊb/ 调查
+allegation /ˌæləˈɡeɪʃən/ 指控；说法
+recruit /rɪˈkruːt/ 招募；策反
+compromise /ˈkɑːmprəmaɪz/ 泄露；损害
+oversight /ˈoʊvərˌsaɪt/ 监督；监管
+safeguard /ˈseɪfɡɑːrd/ 保障措施
+vetted /ˈvetɪd/ 审查通过的
+formalize /ˈfɔːrməlaɪz/ 形式化（证明）
+checkpoint /ˈtʃekpɔɪnt/ 检查点；模型权重
+synchronized /ˈsɪŋkrənaɪzd/ 同步的
+lidar /ˈlaɪdɑːr/ 激光雷达
+bimanual /baɪˈmænjʊəl/ 双手的；双臂的]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP40.mp3" length="4389033" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP40.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep40</guid>
+<pubDate>Tue, 10 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>274</itunes:duration>
+<itunes:episode>40</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
 <title>AI in English, Ep.39: Anthropic's IPO Roadshow, Claude Code's Leaked Secrets, and AI in the Wet Lab</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：Anthropic 本周启动 IPO 路演，估值已从 2 万亿美元回落；Claude Code 的“不再询问”按钮把 2539 个真实密钥泄露到了公开 GitHub 上；OpenAI 的 BioBasicsBench 显示，AI 在湿实验室里还做不出可靠判断。
 
