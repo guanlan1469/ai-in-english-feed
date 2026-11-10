@@ -24,6 +24,55 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
      <item>
+<title>AI in English, Ep.41: TSMC's Billion-Dollar Bet, Muse Ember, and ChatGPT on AWS</title>
+<description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：台积电董事会批准各投 Anthropic 和 OpenAI 五亿美元；Meta 推出最便宜的 Muse 模型 Ember，十美分起；ChatGPT Enterprise 上架 AWS Marketplace，企业可用已有亚马逊账单购买。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Wednesday, November eleventh, and today it's all about money: the chipmaker buying into the model makers, a ten-cent model for agents, and ChatGPT moving into Amazon's store. Let's get started.
+Alex: Story one starts in Taiwan, with the company that makes the chips almost every AI model runs on. On Tuesday, TSMC's board approved two investments of up to five hundred million dollars each: one in Anthropic, and one in OpenAI.
+Jordan: The Anthropic money buys shares at the company's initial public offering price. Anthropic set that range on Tuesday too: seventy to seventy-eight dollars a share, which could value the company at up to one point four trillion dollars. Pricing is expected on November eighteenth.
+Alex: And the OpenAI money buys preferred stock, a different kind of share. The two investments add up to a ceiling of one billion dollars, and TSMC's US-listed shares rose about two and a half percent on the news.
+Jordan: There's more happening around the IPO. Anthropic is also lining up a twenty-six billion dollar private placement, with Google, Nvidia, AMD, Microsoft, and TSMC itself among the buyers. And Reuters reported that Anthropic's lawyers sent banks an updated prospectus on Monday, then pulled it back, saying some pricing details were wrong.
+Alex: So the chipmaker that sells the picks and shovels now wants a piece of the gold mines too. TSMC's two biggest indirect customers are Anthropic and OpenAI, and this deal ties them together even more closely.
+Alex: Story two is about a much smaller number: ten cents. On Monday, Meta introduced Muse Ember, the smallest and most efficient model in its Muse family, built for the repetitive work AI agents do all day.
+Jordan: Tool calls, small coding jobs, routing, pulling facts out of documents, and reading very long files. Ember costs ten cents per million input tokens and fifty cents per million output tokens, with a context window of one million tokens and outputs of up to half a million.
+Alex: Meta says it is the same price as Claude Haiku 5.5 and Open AI's GPT-6 Luna, but the cost per task tells the real story. On one independent benchmark, Ember did the job for fourteen cents a task, while its bigger sibling, Muse Spark 1.3, cost two dollars and thirty-nine cents, for almost the same score.
+Jordan: There is one catch worth knowing. If your request goes over two hundred thousand input tokens, the whole thing bills at three times the base price. But for short, repeated jobs, this is Meta's cheapest way to put a model inside an agent.
+Alex: Ember is available now through the Meta Model API and Muse Code, and Meta says it is also coming to Google Cloud and Oracle Cloud. It is the fourth Muse model this year, after Spark in April, Glimmer in August, and Wonder in October.
+Alex: Story three is about how companies buy AI. On Monday, OpenAI made ChatGPT Enterprise available through the AWS Marketplace, Amazon's store for business software.
+Jordan: That means a company can buy ChatGPT Enterprise with the same Amazon account and billing it already uses for cloud computing, and the spending can count toward the big multi-year commitments many companies have already signed with AWS.
+Alex: The bundle is the full workplace suite: ChatGPT, ChatGPT Work, Codex, and dots. OpenAI says buyers get the same models, features, and release timing as customers who buy directly, and eligible customers can also get the Healthcare and Financial Services versions through the same channel.
+Jordan: One detail to read carefully: the listing says buying through the marketplace does not guarantee that all of your data stays inside AWS. OpenAI says business data is encrypted and not used to train its models by default, but the data residency rules only apply where they are supported and switched on.
+Alex: The deal fits a bigger pattern. OpenAI signed a thirty-eight billion dollar compute agreement with AWS last November, and its models arrived on Amazon Bedrock in April. Now the sales channel has caught up with the partnership.
+Jordan: That's our three stories for today. TSMC is buying into Anthropic and OpenAI, Meta's cheapest model costs ten cents, and ChatGPT Enterprise is now on sale inside Amazon's store.
+Alex: Thanks for listening, and we'll be back tomorrow with three more stories. Until then, keep learning, and keep listening.
+
+【生词表】
+chipmaker /ˈtʃɪpˌmeɪkər/ 芯片制造商
+initial public offering /ɪˈnɪʃəl ˈpʌblɪk ˈɔːfərɪŋ/ 首次公开募股（IPO）
+valuation /ˌvæljuˈeɪʃn/ 估值
+preferred stock /prɪˈfɜːrd stɒk/ 优先股
+prospectus /prəˈspektəs/ 招股说明书
+ceiling /ˈsiːlɪŋ/ 上限
+repetitive /rɪˈpetətɪv/ 重复性的
+routing /ˈruːtɪŋ/ 任务分流；路由
+sibling /ˈsɪblɪŋ/ 同系列产品（兄弟型号）
+marketplace /ˈmɑːrkɪtpleɪs/ （线上）商城
+commitment /kəˈmɪtmənt/ （消费额）承诺
+residency /ˈrezɪdənsi/ 存放地；驻留地]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP41.mp3" length="4267407" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP41.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep41</guid>
+<pubDate>Wed, 11 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>266</itunes:duration>
+<itunes:episode>41</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+    <item>
 <title>AI in English, Ep.40: Nvidia Probes Its CEO, Claude Fable 5.2 Arrives, and Robots Get Open World Models</title>
 <description><![CDATA[Alex 和 Jordan 用自然英文聊 3 条 AI 新闻。本期话题：英伟达董事会就 CEO 黄仁勋被指成为外国情报目标展开独立调查；Anthropic 发布 Claude Fable 5.2，又快又便宜；英伟达开源 Cosmos 3 世界模型，机器人和自动驾驶汽车都能在模拟里练手。
 
