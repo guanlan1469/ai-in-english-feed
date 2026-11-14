@@ -1,0 +1,21 @@
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Sunday, November 15: your AI agent learns to pay, a coding tool tells the full story of its break-in, and the company behind Claude gets ready to go public. Let's get started.
+Alex: Story one starts at OpenAI, with a wallet that is not for you, but for your agent.
+Jordan: On Friday, OpenAI launched ChatGPT Wallet. It lets your dot, OpenAI's personal agent inside ChatGPT, buy things for you.
+Alex: You add a card once. Then, for every purchase, you check the items, the total, and the card, and approve it with a security check, like Face ID or a fingerprint.
+Jordan: The clever part is what the agent never sees: after you approve, the payment network issues a token, a stand-in set of card details, so the agent and the shop never get your real card number. Points, rewards, and dispute protections stay the same.
+Alex: For now, it is a small rollout: only inside dots, not regular ChatGPT chats, and only for Pro subscribers in the US, eighteen or older, with an eligible US-issued credit card. Debit and virtual cards are not supported at launch.
+Jordan: Still, the direction is clear: first agents could search and compare, now they can finish the purchase. The open question is how many shops will let an agent through the door, since many websites still block them.
+Alex: Story two is a confession from Cursor, the popular AI coding tool.
+Jordan: On Thursday, Cursor published the full story of the incident it first disclosed in late October. The trail leads somewhere unexpected: not to its own servers, but to one of its vendors.
+Alex: It starts with Fireworks AI, a vendor that ran some of Cursor's AI workloads. Cursor had given Fireworks an access key, and that key was exposed there. An attacker used it to copy coding-agent traces from a shared storage bucket, mostly from 2025, from sessions outside Privacy Mode.
+Jordan: A few of those traces still held credentials that were never redacted. With them, the attacker reached some of Cursor's internal tools, and on October 29, placed modified copies of Anthropic's Claude Code extension into the cache that serves Cursor's extension marketplace.
+Alex: Up to 5,000 users may have got the fake build in the roughly 11 hours it was live. Cursor puts the damage small: traces from under 0.05% of users, API credentials from under 0.01% of customers. The last attacker activity it saw was November 1.
+Jordan: Cursor has moved all of its AI work off Fireworks, revoked the key, and rotated its credentials. Fireworks has not confirmed Cursor's version of events, and the lesson is quiet: the record of what your agent did can be as sensitive as the work itself.
+Alex: Story three takes us to Wall Street. Anthropic, the company behind Claude, is about to go public.
+Jordan: On Friday, the offering was fully subscribed on its first day of bookbuilding: investors asked for all the shares on offer, and then some. Bloomberg reported orders of roughly six times the shares available.
+Alex: Anthropic plans to sell 825 million shares at $70 to $78 each, price the deal on November 18, and start trading November 19 on the Nasdaq, under the ticker ANT.
+Jordan: At the top of that range, the company would be worth roughly $1.4 trillion, counting all shares that could exist. Google, Nvidia, Microsoft, and four other tech names have also agreed to buy $26 billion of stock in a private deal at the IPO price.
+Alex: One twist: Bloomberg reported that several banks turned away orders from investors in mainland China and Hong Kong. The company behind one of the world's most-used AI models is listing in New York, and not everyone gets a seat at the table.
+Jordan: That's our three stories for today: OpenAI gives your agent a wallet, Cursor explains how a leaked key became a fake extension, and Anthropic's debut is nearly sold out before it begins.
+Alex: Thanks for listening, and we'll be back tomorrow with three more stories. Until then, keep learning, and keep listening.
