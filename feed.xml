@@ -23,7 +23,56 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
-                    <item>
+                                        <item>
+<title>AI in English, Ep.48: Nvidia's 115-Billion-Dollar Quarter, GPT-6.2, and Microsoft's Seven New Models</title>
+<description><![CDATA[英伟达财报营收1158亿美元、同比翻倍；OpenAI发布GPT-6.2；微软Ignite推出七款MAI模型。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+Jordan: And I'm Jordan. It's Wednesday, November eighteenth. Nvidia posts a monster quarter without Jensen Huang, OpenAI ships GPT-6.2, and Microsoft answers with seven of its own models. Let's get started.
+Alex: Story one is the number everyone on Wall Street was waiting for. On Tuesday, Nvidia reported quarterly revenue of one hundred fifteen point eight billion dollars.
+Jordan: That is more than double the same quarter last year, up one hundred three percent. Earnings came in at two dollars and sixty-eight cents a share, comfortably ahead of the two dollars and forty-eight cents analysts expected.
+Alex: Almost all of it came from data centers. That business alone brought in one hundred seven point six billion dollars, up one hundred ten percent from a year ago. And Nvidia also started shipping its new Vera Rubin systems, the next generation of AI hardware.
+Jordan: The outlook was strong too. Nvidia guided next quarter's revenue to about one hundred thirty billion dollars, above what Wall Street expected. Shares rose about two percent in after-hours trading.
+Alex: And remember, this was Nvidia's first earnings report since founder Jensen Huang stepped down. Interim chief executive Colette Kress told investors the momentum is real.
+Jordan: The succession question is not going away, though. Huang has said he would be open to returning as chief executive, but board chair Harvey Jones said the board does not intend to bring him back. For now, the machine runs on without him, and the numbers look just fine.
+Alex: Story two takes us to OpenAI, which on Tuesday launched GPT-6.2, in two versions: Astra and Sol.
+Jordan: Astra is the frontier model, built for the hardest professional work, while Sol is the cheaper everyday model for coding and writing. Both are available now in ChatGPT Work and Codex for paying users, and through the API.
+Alex: The pricing tells the story. Astra costs eight dollars per million input tokens and forty dollars per million output tokens, twenty percent cheaper than its predecessor. Sol stays at two dollars and ten dollars, the same as before.
+Jordan: On independent benchmarks, both models improved. Artificial Analysis puts Astra at sixty-two on its Intelligence Index, up from fifty-seven, and Sol at fifty-seven, up from fifty-five.
+Alex: But there is a sharper edge to this launch. Astra is OpenAI's first released model rated High for AI self-improvement, meaning it can help improve AI systems themselves. And both models are rated Critical for cybersecurity, after Astra jumped twenty-two points on OpenAI's internal exploit benchmark.
+Jordan: OpenAI says both models ship with tighter safeguards for high-risk cybersecurity help. The race is getting faster, and the safety labels are getting louder.
+Alex: Story three is Microsoft's answer, delivered at its Ignite conference on Tuesday: not one new model, but seven.
+Jordan: The family comes from Microsoft AI, the unit led by Mustafa Suleyman, and it covers coding, cybersecurity, images, speech, and decision-making. The headline pair is M AI Code 2 and Code 2 Flash, both now available in GitHub Copilot.
+Alex: Microsoft's pitch is price, not just power. It says Code 2 delivers ninety-eight percent of the coding quality of GPT-6.1 Sol, at about forty percent of the price. And its Cyber 2 Flash security model, it claims, matches GPT-6 Astra at under two percent of the cost per task.
+Jordan: Those are Microsoft's own numbers, so take them with a pinch of salt. The firmer facts are the prices Microsoft printed: its new speech model starts at one cent per audio minute, and its Image 2.7 model now tops Artificial Analysis's image-editing leaderboard.
+Alex: Microsoft is also letting customers customize these models for their own businesses, and run them on its second-generation Maia 200 chips. Suleyman's message was blunt: Microsoft no longer wants to depend only on other companies' models.
+Jordan: That's our three stories for today. Nvidia doubles its revenue without Huang, OpenAI ships GPT-6.2 with a new self-improvement warning label, and Microsoft builds its own model family. See you tomorrow.
+
+【生词表】
+earnings /ˈɜːr.nɪŋz/ 收益，财报
+revenue /ˈrev.ə.nuː/ 营收
+guidance /ˈɡaɪ.dəns/ （业绩）指引，展望
+interim /ˈɪn.tər.ɪm/ 临时的，过渡的
+momentum /moʊˈmen.təm/ 势头，冲劲
+succession /səkˈseʃ.ən/ 继任，接班
+predecessor /ˈpred.ə.ses.ɚ/ 前任，前代产品
+benchmark /ˈbentʃ.mɑːrk/ 基准测试
+safeguard /ˈseɪf.ɡɑːrd/ 保障措施
+exploit /ɪkˈsplɔɪt/ 利用（漏洞）
+self-improvement /ˌself.ɪmˈpruːv.mənt/ 自我改进
+customize /ˈkʌs.tə.maɪz/ 定制]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP48.mp3" length="4094372" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP48.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep48</guid>
+<pubDate>Wed, 18 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>255</itunes:duration>
+<itunes:episode>48</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.47: California Sues OpenAI, Data Centers Rival Denmark, and AI's National Champions</title>
 <description><![CDATA[加州起诉 OpenAI：失控的智能体；美国数据中心年排放堪比丹麦；特朗普政府拟设 AI“国家冠军”。
 
