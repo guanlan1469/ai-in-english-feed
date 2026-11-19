@@ -1,0 +1,33 @@
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+
+Jordan: And I'm Jordan. It's Friday, November 20th. Google launches a faster Gemini model, Nvidia stops selling AI chips to China, and OpenAI's models start designing chips of their own. Let's get started.
+
+Alex: Story one is Google's newest model, Gemini 4 Neon. Google DeepMind launched it on Thursday, and it is built for the hard stuff: complex software engineering, knowledge work, and science.
+
+Jordan: Where does it sit in the family? Google says Neon sits between Gemini 4 Carbon, the top model, and Hydrogen, the fast, cheap one. It is close to Carbon on quality, but much faster: about 110 output tokens a second at its highest thinking level, against about 59 for Carbon.
+
+Alex: That is roughly three times the speed, at roughly sixty percent of the cost per task. It takes 1 million tokens of context, and it reads video, audio, charts, spreadsheets, and PD Fs natively.
+
+Jordan: The price is $3 per million input tokens, and $15 per million output tokens. It is available now in Google AI Studio and Vertex AI, and it went generally available in Gemini Enterprise on launch day.
+
+Alex: It is also Google's fourth new Gemini model in about a month. The pace is the story here: the frontier is now a monthly release cycle.
+
+Jordan: Story two takes us to Nvidia, and to China. Nvidia has stopped shipping its Hopper data center chips to China, according to Bloomberg, even after Washington cleared some of those sales.
+
+Alex: At the same time, The Information reported that the Commerce Department rushed approvals for Nvidia's newer H two hundred chips for China, over the objections of its own staff. So the picture is mixed: some chips approved in a hurry, others no longer shipped at all.
+
+Jordan: Nvidia has also set up an export control oversight committee, and it delayed a routine filing with the SEC, saying it needs more time for disclosures around the investigation into its former chief executive.
+
+Alex: The stakes are enormous. Nvidia's last quarter brought in $115.8 billion, and China was already excluded from its guidance for the current quarter. The company is choosing to walk away from the market rather than fight over it.
+
+Jordan: And the timing matters. Washington is still debating tighter rules on selling AI chips to China, and on renting American chips to Chinese companies over the cloud. Nvidia's move may be as much about politics as about business.
+
+Alex: Story three is my favorite: AI designing the chips that run AI. OpenAI says its models improved AMD's flagship GPU designs by up to 14% across power, performance, and area, in under five months.
+
+Jordan: That is about a year of human engineering work, done in less than half the time. One example: the team cut 13% of the area in a vector unit, part of a chip design that has already been sent to manufacturing.
+
+Alex: OpenAI calls the project Jalapeño, and the point is bigger than one chip. The same models that write code and answer questions can now do the painstaking work of laying out silicon, and the improvements are already shipping in real hardware.
+
+Jordan: It is a neat loop. Better models make better chips, and better chips train better models. The question is how fast that loop can spin.
+
+Alex: That's our three stories for today. Google's Gemini 4 Neon is faster and cheaper, Nvidia steps back from China, and OpenAI's AI is now designing chips. See you tomorrow.
