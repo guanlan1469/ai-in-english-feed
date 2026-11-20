@@ -1,0 +1,29 @@
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+
+Jordan: And I'm Jordan. It's Saturday, November 21st. Anthropic's record IPO loses its shine on day two, Meta's Muse agent mixes up private chats, and Apple joins the race to control your computer. Let's get started.
+
+Alex: Story one is Anthropic, and the honeymoon is already over. The Claude developer priced its IPO at $83 a share, selling 980 million shares and raising about $81 billion, the biggest IPO in history.
+
+Jordan: The debut looked great at first. Shares opened at $111.50 on Thursday, about 34% above the IPO price, and closed at $97.17, still up 17%.
+
+Alex: But Friday told a different story. The stock fell about 13% by midday, to around $85. Retail investors traded more than $750 million of the stock on debut day, the most for any IPO since Vanda Research started tracking in 2012. Many who bought at the open are now underwater.
+
+Jordan: And the wider AI trade didn't get a lift either. AI stocks kept sliding, and Bitcoin dropped below $62,000. Anthropic now holds more than $230 billion in cash, but it also carries about $900 billion in computing commitments. The question now is whether its revenue can grow fast enough to justify a valuation near $1.5 trillion.
+
+Alex: Story two is a warning about AI agents that get too close to your private life. A Reuters investigation found that Meta's Muse agent, which launched in September and passed 10 million downloads, has been mixing up conversations and showing people information that is not theirs.
+
+Jordan: The examples are startling. One employee asked about fishing weather and got someone else's bank balances instead: $2,722.58 at Capital One, and $5,899.57 at Charles Schwab.
+
+Alex: Another employee was reminded to reply to her sister's message on Signal, even though she never gave Muse access to Signal. Other mix-ups included childcare requests, career advice, and product orders that belonged to strangers.
+
+Jordan: Meta called these isolated incidents, saying many were hallucinations that have since been fixed. Reuters could not confirm whether the bank balances were real. But the AI Now Institute confirmed that Muse could pull private Signal text without permission, and Signal's president, Meredith Whittaker, called the approach technologically reckless.
+
+Alex: The cause is permissions. On Android, Muse reads push notifications. On Mac, it uses accessibility tools and screenshots. The lesson is simple: before you hand an agent the keys to your phone, check exactly what it can see.
+
+Jordan: Story three is the race to control your computer, and it just got crowded. Google launched Gemini for Mac, an agent that can organize local files, complete forms, and operate Mac apps while you keep working. It is available in English at first, to Google AI Plus, Pro, and Ultra subscribers in the US.
+
+Alex: And Bloomberg reported on Friday that Apple is building its own computer-controlling agent, one that can operate applications, browse websites, and write code. The project is still in early development, but Apple is also preparing new permission warnings for rival agents that want the same access.
+
+Jordan: So now the field is set: OpenAI's Dots, Anthropic's Claude, Meta's Muse, Google's Gemini, and Apple's own agent, all competing to run your computer for you. The technology is moving fast. The question is who you trust with the keys.
+
+Alex: That's our three stories for today. Anthropic's IPO pop fades on day two, Meta's Muse mixes up private chats, and Apple joins the race to run your computer. See you tomorrow.
