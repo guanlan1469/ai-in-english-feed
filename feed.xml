@@ -24,6 +24,70 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                         <item>
+<title>AI in English, Ep.52: Claude Cracks the Riemann Hypothesis, Signal Fights Back, and OpenAI Guards Its Thinking</title>
+<description><![CDATA[Claude 可能破解了黎曼猜想，Signal 默认屏蔽截屏反击 AI 窥屏，OpenAI 给 GPT-6.2 的推理上了锁。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+
+Jordan: And I'm Jordan. It's Sunday, November 22nd. Claude may have cracked math's most famous problem, Signal is fighting back against AI agents in your chats, and OpenAI is locking down how its models think.
+
+Alex: Story one is the biggest math news in a century, maybe. On Friday, Levent Alpöge, a mathematician at Anthropic, announced that he and Claude have found a proof of the Riemann hypothesis.
+
+Jordan: Here is the short version. The Riemann hypothesis was posed in 1859 by Bernhard Riemann. It is about how prime numbers are distributed, and it is one of the seven Millennium Prize Problems, each with a million-dollar prize.
+
+Alex: For more than 160 years, nobody could prove it. Alpöge says he worked with Claude for about six weeks, and the result is a proof written entirely as computer code, in a language called Lean. 17 million lines of it.
+
+Jordan: Written out in ordinary words, the full argument would run to more than 250,000 pages, and Alpöge himself says he has not yet mastered all the mathematics in it. So instead of a paper, he published the code and let computers check it.
+
+Alex: And on Saturday, the check came back. The Lean Focused Research Organization and the Mathlib Initiative, the groups that maintain the proof-checking software, said they had independently verified it. Their words were, "We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct."
+
+Jordan: But this is not the end of the story. The Clay Institute still lists the problem as unsolved, and mathematicians still need to understand the ideas behind the proof, not just trust the computer. The timing is striking too: the announcement came the day after Anthropic's record stock market debut.
+
+Alex: Story two is about privacy, and it follows directly from a story we covered yesterday. Signal, the encrypted messaging app, has announced it will block screenshots by default on iPhones and Android phones, to stop AI agents from reading your chats.
+
+Jordan: AI assistants like Siri AI and Gemini Intelligence answer your questions by scanning whatever is on your screen, so your private messages can be captured and sent to a remote server, without Signal ever knowing.
+
+Alex: Signal's president, Meredith Whittaker, called this an existential threat to privacy. On iPhones running iOS 27, a new setting, Block Siri AI, is now on by default. On Android, screen security turns on automatically when an AI assistant tries to read the screen.
+
+Jordan: Signal did the same thing last year, blocking Microsoft's Recall from capturing its chats on Windows 11. But Signal admits the fix is incomplete: agents could still reach files on your phone, or read your messages on the other person's device. What Signal really wants is a standard way for apps to tell AI agents to stay out.
+
+Alex: Story three is OpenAI, and it is about keeping AI's thinking to itself. On Thursday, the company explained how it fights adversarial distillation.
+
+Jordan: Distillation is using a powerful model's outputs, without permission, to train a cheaper copy with weaker safety rules. OpenAI's biggest worry is the model's protected reasoning, its step-by-step thinking before answering, because those traces are valuable training data.
+
+Alex: In its newest models, GPT-6.2 Astra and Sol, OpenAI now ties that reasoning to the conversation history that produced it. If you edit an earlier message, the system drops the reasoning that followed.
+
+Jordan: The numbers, from OpenAI's own tests, are dramatic. Attacks on an earlier request succeeded 54% of the time against GPT-6 Astra, but just 0.2% against GPT-6.2 Astra. For the current request, the rate fell from 23% to under 1%.
+
+Alex: One caution: these are OpenAI's own internal tests, not independent verification. But the message is clear. The best models are no longer just competing on answers. They are competing on keeping their thinking secret.
+
+Jordan: That's our three stories for today. Claude may have cracked the Riemann hypothesis, Signal is blocking AI agents from your chats, and OpenAI is guarding its models' thinking. See you tomorrow.
+
+【生词表】
+hypothesis /haɪˈpɒθəsɪs/ 猜想；假设
+prime /praɪm/ 质数的；首要的
+distribution /ˌdɪstrɪˈbjuːʃn/ 分布
+verify /ˈverɪfaɪ/ 核实；验证
+existential /ˌeɡzɪˈstenʃl/ 生存攸关的
+screenshot /ˈskriːnʃɑːt/ 截屏
+scan /skæn/ 扫描；浏览
+adversarial /ˌædvərˈseriəl/ 对抗性的
+distill /dɪˈstɪl/ 提炼；蒸馏（AI 蒸馏）
+reasoning /ˈriːzənɪŋ/ 推理；思考过程
+trace /treɪs/ 痕迹；踪迹]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP52.mp3" length="4079325" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP52.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep52</guid>
+<pubDate>Sun, 22 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>255</itunes:duration>
+<itunes:episode>52</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
 <title>AI in English, Ep.51: Anthropic's IPO Pop Fades, Muse Mixes Up Chats, and Apple Joins the Agent Race</title>
 <description><![CDATA[Anthropic 上市次日大跌，Meta 的 Muse 智能体串了私人聊天，苹果也要做能操控电脑的 AI 智能体。
 
