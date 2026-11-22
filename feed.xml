@@ -23,7 +23,69 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
-                                        <item>
+                                         <item>
+<title>AI in English, Ep.53: OpenAI's Speed Limit, a Three-Hour Outage, and Tencent's Giant Open Model</title>
+<description><![CDATA[OpenAI 首席科学家提议给 AI 设限速，ChatGPT 常规维护宕机三个半小时，腾讯开放 7700 亿参数的 Hy4 权重。
+
+
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+
+Jordan: And I'm Jordan. It's Monday, November 23rd. OpenAI's chief scientist wants a speed limit on AI itself, ChatGPT went down for three and a half hours on Saturday, and Tencent just opened up a giant model for anyone to download.
+
+Alex: Story one starts at OpenAI, but it is not a product launch. On Sunday, Jakub Pachocki, the company's chief scientist, published a proposal: the whole industry should agree on common limits for how powerful AI models are allowed to get.
+
+Jordan: His yardstick is a simple number called perplexity. It measures how well a model predicts the next word, or token, in a piece of text. Lower perplexity means better predictions, so it works as one shared measure of progress across different labs.
+
+Alex: Pachocki's argument is about timing. He writes that AI itself could drive big advances in how models are trained as soon as 2027, and that progress could move faster than our ability to understand and monitor what models are doing.
+
+Jordan: So his proposal is a deal: labs should commit not to cross agreed capability thresholds until new monitoring and safety tools are in place. He wants an industry standard that sets a first limit, and spells out what milestones must be met before that limit is passed.
+
+Alex: Sam Altman backed the idea on X, calling the essay "the most important thing OpenAI has published in awhile," and saying common limits would help ensure safety and control. It is striking to hear the world's leading AI lab argue for a speed limit, even if this one is voluntary for now.
+
+Jordan: Story two is also OpenAI, but a very different kind of news. On Saturday, routine database maintenance took down ChatGPT and OpenAI's API for 211 minutes.
+
+Alex: Between 1:48 and 5:21 p.m. Pacific time, up to 75% of requests failed. Three out of every four, for paid and free users alike.
+
+Jordan: The cause, in OpenAI's own words, was scheduled maintenance on a Postgres database service used by its Primary API service, the system that handles authentication across the entire OpenAI stack. During the maintenance, both of the database's read replicas failed at the same time.
+
+Alex: A replica is just a copy of a database that shares the work, so the main database does not have to do everything. These two copies were load-bearing, so when both went down, the login system behind every OpenAI product went down with them. The models themselves were fine. People simply could not get in.
+
+Jordan: Everything was back by Saturday evening, and OpenAI published a full post-incident write-up the same day. The lesson is an old one: if you build on a single provider, you inherit its uptime. And this week, OpenAI's rivals are all competing to be the safer bet.
+
+Alex: Story three takes us to China. On Friday, Tencent released the weights of Hy4, its flagship model, so developers can now download and run it themselves.
+
+Jordan: The numbers are big. Hy4 is a mixture-of-experts model with 770 billion parameters in total, 49 billion active for each token, and a context window of about one million tokens. It understands text, images, and video, and it is the first model in Tencent's Hy line that can see a screen and operate a computer.
+
+Alex: The full model was announced on November 4th, but the weights only landed on November 20th. The download is about 1.55 terabytes, so this is a model for a multi-GPU server, not a laptop.
+
+Jordan: One caution: the benchmark scores in Tencent's materials are the company's own, and they have not been independently verified. Still, the open-weight race keeps heating up, and a model this size, now freely downloadable, is a big step for anyone building outside the big closed labs.
+
+Alex: That's our three stories for today. OpenAI's chief scientist wants a speed limit on AI, a routine database job took ChatGPT down for three and a half hours, and Tencent opened up a 770-billion-parameter model.
+
+Jordan: See you tomorrow.
+
+
+perplexity /pərˈpleksəti/ 困惑度（衡量模型预测能力的指标）
+yardstick /ˈjɑːrdstɪk/ 衡量标准；标尺
+threshold /ˈθreʃhoʊld/ 门槛；阈值
+voluntary /ˈvɑːlənteri/ 自愿的
+replica /ˈreplɪkə/ 副本；复制品
+authentication /ɔːˌθentɪˈkeɪʃn/ 身份验证
+load-bearing /ˈloʊd ˈberɪŋ/ 承重的
+outage /ˈaʊtɪdʒ/ 宕机；断供
+mixture-of-experts /ˈmɪkstʃər əv ˈekspɜːrts/ 混合专家（模型架构）
+parameter /pəˈræmɪtər/ 参数]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP53.mp3" length="3880795" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP53.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep53</guid>
+<pubDate>Mon, 23 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>242</itunes:duration>
+<itunes:episode>53</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.52: Claude Cracks the Riemann Hypothesis, Signal Fights Back, and OpenAI Guards Its Thinking</title>
 <description><![CDATA[Claude 可能破解了黎曼猜想，Signal 默认屏蔽截屏反击 AI 窥屏，OpenAI 给 GPT-6.2 的推理上了锁。
 
