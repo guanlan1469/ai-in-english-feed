@@ -24,6 +24,70 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                          <item>
+<title>AI in English, Ep.54: Muse Shops Black Friday, Siri Gets Smarter, and Gemini Makes the Call</title>
+<description><![CDATA[Muse 帮你抢 Black Friday、Siri AI 进驻苹果自家 App、Gemini 替你给商家打电话。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English, the show where you learn English and learn AI, three stories at a time. I'm Alex.
+
+Jordan: And I'm Jordan. It's Tuesday, November 24th. This week, the assistants are doing the errands: Muse shops Black Friday, Siri gets smarter, and Gemini makes the phone calls.
+
+Alex: Story one starts at Walmart, just in time for Black Friday. On Monday, the retailer switched on its Agent Gateway, and the first AI assistant allowed in is Meta's Muse.
+
+Jordan: You tell Muse what you need, say, a TV deal, or which Black Friday bargains can be delivered to your door. Muse searches Walmart's catalogue, builds a basket, and checks out, all inside the conversation.
+
+Alex: But there are guardrails. The first time Muse adds something to your cart, Walmart creates an Agent Profile inside your account, a separate space, so it cannot see your past orders. And you set a spending limit, $50, $100, or $200, for example.
+
+Jordan: You approve the purchase, and you pay with a card already saved in your Walmart account. The agent never sees your card details, and it cannot add or change a payment method. Prices are the same as on Walmart.com, and the usual return policy still applies.
+
+Alex: Walmart calls Muse "just the beginning." More agents are on the way. Amazon, by comparison, blocks Muse entirely, so the store that lets your assistant in may be the store that gets your money.
+
+Alex: Story two is Apple. On Monday, Apple started rolling out new Siri AI features across eight of its own apps: Calendar, Mail, Maps, Messages, Photos, Safari, Files, and Weather.
+
+Jordan: This is the rebuilt Siri from iOS 27. It understands personal context, what is on your screen, and natural language, so you can ask it to find the coffee shop you visited last week, or archive files you have not opened in over a year.
+
+Alex: At the same time, Apple opened a Developer Preview that lets any app plug into Siri AI through something called App Intents. A developer can hand Siri a custom action, like checking a delivery or booking a table, and Siri can carry it out, even across several apps at once.
+
+Jordan: The catch is timing. Developers can build and test today, but their integrations will not reach ordinary App Store users until the spring of 2027. Also worth knowing: Siri AI is still not available on iPhone in the European Union, and it needs an Apple Intelligence device set to a supported language.
+
+Alex: Story three is Google, where an old idea has a new brain. On November 20th, Google Research explained that Duplex, the system that has been phoning restaurants and shops since 2018, now lives inside Tasks in Gemini.
+
+Jordan: You switch the Gemini app from Chat to Task and describe an errand in plain words, like book a car service on Friday morning. If there is no website or booking form to use, Gemini simply calls the business for you.
+
+Alex: The call comes from a Google virtual number, and it opens by saying it is an automated system calling from Google. The stack now runs entirely on Gemini, on the Gemini 4 Hydrogen and Neon models, so one system handles many kinds of errands.
+
+Jordan: There are limits, and they matter. Calling is rolling out in the US only, for adults over 18, on a personal Google account, in English. It only rings Google-verified US businesses, and four states are excluded entirely: Louisiana, Indiana, Minnesota, and Montana.
+
+Alex: It will not call emergency services, take a payment, or pass along a card number, a password, or a social security number. And a shop that does not want these calls can switch them off in its Google Business Profile, or just tell the agent to stop.
+
+Jordan: Josh Woodward, who runs the Gemini app, said Gemini called two Honda dealers at once, sat through the hold music, and put a Friday slot on his calendar in under five minutes. The customer never had to pick up the phone.
+
+Alex: That's our three stories for today. Muse can shop Black Friday at Walmart, with a spending limit you control. Siri AI is spreading across Apple's apps. And Gemini can call the shop for you, as long as you are in the US.
+
+Jordan: Three assistants, three errands, and one theme: the AI is leaving the chat box and doing the chore. See you tomorrow.
+
+【生词表】
+guardrail /ˈɡɑːrd.reɪl/ 保障措施，护栏
+bargain /ˈbɑːr.ɡɪn/ 特价商品
+spending limit /ˈspend.ɪŋ ˈlɪm.ɪt/ 消费上限
+checkout /ˈtʃek.aʊt/ 结账
+archive /ˈɑːr.kaɪv/ 存档
+plug into /plʌɡ ˈɪn.tuː/ 接入
+errand /ˈer.ənd/ 差事，跑腿的事
+hold music /hoʊld ˈmjuː.zɪk/ 电话等待音乐
+verified /ˈver.ə.faɪd/ 经过验证的
+excluded /ɪkˈskluːd.ɪd/ 被排除在外的]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP54.mp3" length="3957281" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP54.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep54</guid>
+<pubDate>Tue, 24 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>247</itunes:duration>
+<itunes:episode>54</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.53: OpenAI's Speed Limit, a Three-Hour Outage, and Tencent's Giant Open Model</title>
 <description><![CDATA[OpenAI 首席科学家提议给 AI 设限速，ChatGPT 常规维护宕机三个半小时，腾讯开放 7700 亿参数的 Hy4 权重。
 
