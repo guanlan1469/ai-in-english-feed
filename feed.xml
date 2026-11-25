@@ -24,6 +24,52 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                          <item>
+<title>AI in English, Ep.56: GPT-6 Designs Proteins, AI's Safety Doubts, and Muse in Instagram DMs</title>
+<description><![CDATA[GPT-6 设计蛋白质、AI 员工担心自家模型太强不敢发、Muse 进 Instagram 私信。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English — three stories, ten new words, and your daily dose of AI news in plain English. I'm Alex.
+Jordan: And I'm Jordan. It's Thursday, November 26th. Today, AI is designing proteins in the lab, worrying its own makers, and sliding into your Instagram DMs.
+Alex: Story one: OpenAI says its GPT-6 models can now design proteins. Not just talk about biology — actually design the molecules.
+Jordan: Here's the idea. Proteins are chains of amino acids that fold into shapes, and those shapes decide what a protein does in the body. If you can design a protein that sticks to a specific target, you might one day build a new medicine.
+Alex: OpenAI says GPT-6 used reasoning and code to design protein sequences and predict how they would fold — no specialist biology model needed. Then lab tests checked the designs. 35 out of 322 showed evidence of binding, across 5 different targets.
+Jordan: That is a long way from a drug. Binding in a lab dish is step one of about a thousand. But it is a sign that general-purpose models are moving into work that used to belong to specialist systems. The next question is whether GPT-6 can do this reliably, across many more targets.
+Alex: The drug industry is watching closely. The head of Novartis said this week that AI could cut as much as 4 years from drug development timelines — though he also pushed back on predictions that AI will cure diseases like cancer within a decade.
+Jordan: So the promise is real, and so is the hype. A protein that binds its target in a dish is a start, not a cure. Still, a chatbot that can design molecules is not something anyone expected a few years ago.
+Alex: Story two is the other side of that power. Axios reports that employees at OpenAI and Anthropic worry their labs' newest models may be too powerful to release safely.
+Jordan: More than two dozen people inside the two companies told Axios they are concerned. The models keep getting more capable, and the safety checks are struggling to keep up.
+Alex: Anthropic already holds back one version of its newest model from the general public. It is available only to vetted organizations working in cybersecurity or biomedical research. And OpenAI says it has adopted new safety requirements that could slow down its own releases.
+Jordan: Nobody is saying stop. But the people building these systems are the ones raising the alarm, and that is worth listening to. Capability is racing ahead, and the question is whether control can keep pace.
+Alex: It is an odd moment. The same week one lab shows off AI designing proteins, staff at both big labs are quietly asking whether the next models should ship at all.
+Jordan: Story three, and it is a lighter one: Meta is bringing its AI agent, Muse, into Instagram DMs.
+Alex: That means you can chat with Muse right inside your messages — no separate app, no switching screens. Ask a question, plan something, get help, all in the same place you already talk to your friends.
+Jordan: It is part of a bigger push. The assistant is moving to where people already are, instead of asking people to come to it. Meta wants Muse to be the helper you bump into, not the app you have to remember to open.
+Alex: The trade-off is familiar by now. Convenience goes up, and so does the amount of your life the assistant can see. A DM is a private space — having an AI in it will feel normal fast, which is exactly why it is worth thinking about.
+Jordan: Three stories, one thread: AI is getting more powerful and more present at the same time. It can design proteins, it worries its own creators, and it is now sitting in your DMs.
+Alex: That's it for today. Three stories, ten new words, and we'll be back tomorrow with three more. See you then.
+
+【生词表】
+protein /ˈproʊ.tiːn/ 蛋白质
+amino acid /əˈmiː.noʊ ˈæs.ɪd/ 氨基酸
+fold /foʊld/ 折叠
+bind /baɪnd/ 结合
+target /ˈtɑːr.ɡɪt/ 靶点；目标
+vetted /ˈvet.ɪd/ 经过审查的
+release /rɪˈliːs/ 发布
+keep pace /kiːp peɪs/ 跟上步伐
+slide into /slaɪd ˈɪn.tuː/ 悄悄进入
+trade-off /ˈtreɪd.ɔːf/ 权衡；取舍]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP56.mp3" length="3530963" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP56.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep56</guid>
+<pubDate>Thu, 26 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>221</itunes:duration>
+<itunes:episode>56</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.55: Claude Ships Code, Jensen's Back, and Google Search Gets Personal</title>
 <description><![CDATA[Claude 审批代码、黄仁勋重回英伟达、谷歌搜索想更了解你。
 
