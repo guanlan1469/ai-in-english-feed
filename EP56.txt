@@ -1,10 +1,10 @@
 Alex: Good morning, and welcome back to AI in English — three stories, ten new words, and your daily dose of AI news in plain English. I'm Alex.
-Jordan: And I'm Jordan. It's Thursday, November twenty-sixth. Today, AI is designing proteins in the lab, worrying its own makers, and sliding into your Instagram DMs.
+Jordan: And I'm Jordan. It's Thursday, November 26th. Today, AI is designing proteins in the lab, worrying its own makers, and sliding into your Instagram DMs.
 Alex: Story one: OpenAI says its GPT-6 models can now design proteins. Not just talk about biology — actually design the molecules.
 Jordan: Here's the idea. Proteins are chains of amino acids that fold into shapes, and those shapes decide what a protein does in the body. If you can design a protein that sticks to a specific target, you might one day build a new medicine.
-Alex: OpenAI says GPT-6 used reasoning and code to design protein sequences and predict how they would fold — no specialist biology model needed. Then lab tests checked the designs. Thirty-five out of three hundred and twenty-two showed evidence of binding, across five different targets.
+Alex: OpenAI says GPT-6 used reasoning and code to design protein sequences and predict how they would fold — no specialist biology model needed. Then lab tests checked the designs. 35 out of 322 showed evidence of binding, across 5 different targets.
 Jordan: That is a long way from a drug. Binding in a lab dish is step one of about a thousand. But it is a sign that general-purpose models are moving into work that used to belong to specialist systems. The next question is whether GPT-6 can do this reliably, across many more targets.
-Alex: The drug industry is watching closely. The head of Novartis said this week that AI could cut as much as four years from drug development timelines — though he also pushed back on predictions that AI will cure diseases like cancer within a decade.
+Alex: The drug industry is watching closely. The head of Novartis said this week that AI could cut as much as 4 years from drug development timelines — though he also pushed back on predictions that AI will cure diseases like cancer within a decade.
 Jordan: So the promise is real, and so is the hype. A protein that binds its target in a dish is a start, not a cure. Still, a chatbot that can design molecules is not something anyone expected a few years ago.
 Alex: Story two is the other side of that power. Axios reports that employees at OpenAI and Anthropic worry their labs' newest models may be too powerful to release safely.
 Jordan: More than two dozen people inside the two companies told Axios they are concerned. The models keep getting more capable, and the safety checks are struggling to keep up.
