@@ -1,0 +1,18 @@
+Alex: Good morning, and welcome back to AI in English — three stories, ten new words, and your daily dose of AI news in plain English. I'm Alex.
+Jordan: And I'm Jordan. It's Friday, November 27th. Today, AI is heading into orbit, rewriting its own plumbing, and learning to keep a secret.
+Alex: Story one: SpaceX has permission to put up to 1 million satellites in orbit — not for internet this time, but for computing. A data center in space.
+Jordan: The project is called Starmind, and the US Federal Communications Commission just gave it the green light. The idea is to run AI workloads on satellites in low Earth orbit, powered by the sun, and send the results back down to Earth.
+Alex: Why space? Up there, sunlight is constant and free, and you don't need to buy land or build a power plant. Down here, AI data centers are already fighting over electricity and water. In orbit, the power problem basically disappears.
+Jordan: The catch is heat. Chips get hot, and in space there is no air to carry that heat away. Scientists are also worried about the cost, about space debris, and about what a million bright satellites would do to astronomy.
+Alex: So this is permission, not a launch. SpaceX still has to prove that computing at that scale actually works beyond Earth, and that it can beat the cost of a data center on the ground. But the idea of an AI data center is now officially looking up at the sky.
+Jordan: Story two is closer to home — or rather, closer to the code. Anthropic used Claude to rebuild the software that connects customers to Claude itself.
+Alex: The Messages API — that's the interface apps use to talk to Claude — was written in Python. Claude agents rewrote it in Rust, a language known for speed and safety.
+Jordan: Here's the part that matters. The agents did the rewrite, but humans stayed in charge. The agents compared the new version against the old one using live requests, and fixed the differences under human review. It took about a week to write the first core piece.
+Alex: And the payoff is real. Anthropic says the new version uses roughly 70% less processor power per request, and answers about 20% faster.
+Jordan: It is a neat loop: the AI rebuilt the road it drives on, and the road got faster. The bigger question is how far this goes — if an AI can rewrite its own infrastructure, what else in the stack is next?
+Alex: Story three: OpenAI is testing a more private way to run AI for businesses. Sam Altman announced a limited pilot called Private Inference.
+Jordan: The pitch is simple. Companies want to use AI on sensitive work — legal files, patient records, trade secrets — but they don't want their prompts sitting where anyone else can read them. Private Inference is meant to keep that work sealed off, even while the model is working on it.
+Alex: We don't know the technical details yet — OpenAI hasn't said how it works under the hood, or who the pilot customers are. But the direction is clear. Privacy is becoming a feature labs compete on, not just a promise in a policy page.
+Jordan: And it fits a pattern. AI is moving into more sensitive corners of work, and the companies that handle the data carefully will be the ones businesses trust.
+Alex: Three stories, one thread: AI is getting bigger, faster, and more private — in orbit, in its own code, and in the way it handles your data.
+Jordan: That's it for today. Three stories, ten new words, and we'll be back tomorrow with three more. See you then.
