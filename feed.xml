@@ -24,6 +24,53 @@ This show is AI-generated.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-in-english-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                          <item>
+<title>AI in English, Ep.58: DeepMind Hands Agents the Compute Keys, Google Locks Agents to MCP, and OpenAI's Billing Correction</title>
+<description><![CDATA[DeepMind 让智能体自己管算力、谷歌要求 Workspace 智能体走 MCP、OpenAI 纠正 GPT-6.2 计费错误。
+
+【本期英文全文】
+
+Alex: Good morning, and welcome back to AI in English — three stories, ten new words, and your daily dose of AI news in plain English. I'm Alex.
+Jordan: And I'm Jordan. It's Saturday, November 28th. Today, AI agents get the keys to the computer room, Google lays down new rules for agents, and OpenAI tells users the discount was a mistake.
+Alex: Story one: at Google DeepMind, AI agents are now in charge of part of the company's own computing power.
+Jordan: DeepMind's VP of Research, Koray Kavukcuoglu, said the agents decide for themselves how to spend a slice of DeepMind's compute, running experiments for the next version of Gemini.
+Alex: The idea is simple. Training a frontier model takes thousands of experiments — which settings to try, which ones to drop. Instead of humans scheduling all of that by hand, the agents run the loop themselves.
+Jordan: But there is a careful choice inside this. DeepMind is deliberately not training the agents on their own chains of thought — the step-by-step reasoning behind their decisions. That way, humans can still read the reasoning and check it.
+Alex: In other words, the agents get to act, but their thinking stays visible. Kavukcuoglu also stressed that recursive self-improvement — AI improving itself, over and over, without humans — is still distant.
+Jordan: Still, it is a line being crossed. The same machines that learn from the compute are now deciding how the compute gets used. The question is how much of that loop stays in human hands.
+Alex: Story two is also about agents — this time, the rules for how they touch your work apps. Google says that from February 1, 2027, any AI agent that wants to reach Gmail, Drive, or Calendar has to go through Google's own MCP servers.
+Jordan: MCP is the open protocol that lets agents call tools in a standard way. Google just made its 8 Workspace MCP servers generally available — Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat, and Tasks.
+Alex: From that February date, agents that keep calling the old direct APIs will be throttled down to standard-tier quotas, no matter what plan you are paying for. And scaled billing for the new servers starts in April.
+Jordan: Here is the funny part. The new Gmail server can read your mail, search it, and organize it — but it cannot send an email. The most basic thing you would ask an agent to do with Gmail is the one thing the official server does not do yet.
+Alex: Google is basically saying: agents are welcome in Workspace, but only on our roads, and with our speed limits. The open question is whether the tools on those roads will be good enough when the deadline arrives.
+Jordan: Story three: OpenAI says ChatGPT users were getting a discount they were never supposed to get — and now the bill has caught up.
+Alex: When GPT-6.2 launched, a billing error meant usage of Astra and Sol was undercharged. OpenAI's Thibault Sottiaux announced the fix on X, and the effect was immediate: the same work now eats up to 40% more of your plan's allowance on Astra, and 25% more on Sol.
+Jordan: Users noticed fast. People who were used to a certain amount of chatting or coding suddenly hit their limits much sooner — and some called it a stealth price rise, even though OpenAI says it was just correcting a mistake.
+Alex: The timing adds to the sting. OpenAI is also merging ChatGPT's Chat and Work experiences into one pooled usage meter, starting with a small group of Pro users. One meter, shared across everything, instead of separate allowances.
+Jordan: So the lesson is less about the error and more about the math. When a model gets more powerful, the meter runs faster — and a billing bug can hide that for only so long.
+Alex: Three stories, one thread: the AI that runs the experiments, the rules that fence the agents in, and the meter that keeps score. The machines are doing more, and the humans are writing the rules as they go.
+Jordan: That's it for today. Three stories, ten new words, and we'll be back tomorrow with three more. See you then.
+
+【生词表】
+compute /kəmˈpjuːt/ 算力
+allocate /ˈæləkeɪt/ 分配
+frontier /frʌnˈtɪər/ 前沿的
+recursive /rɪˈkɜːrsɪv/ 递归的
+protocol /ˈproʊtəkɒl/ 协议
+throttle /ˈθrɒtl/ 限速；节流
+quota /ˈkwoʊtə/ 配额
+allowance /əˈlaʊəns/ 额度
+undercharge /ˌʌndərˈtʃɑːrdʒ/ 少收费
+merge /mɜːrdʒ/ 合并]]></description>
+<enclosure url="https://guanlan1469.github.io/ai-in-english-feed/EP58.mp3" length="3789679" type="audio/mpeg" />
+<podcast:transcript url="https://guanlan1469.github.io/ai-in-english-feed/EP58.txt" type="text/plain" />
+<guid isPermaLink="false">ai-in-english-ep58</guid>
+<pubDate>Sat, 28 Nov 2026 07:30:00 +0800</pubDate>
+<itunes:duration>237</itunes:duration>
+<itunes:episode>58</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
 <title>AI in English, Ep.57: SpaceX's Million Satellites, Claude Rewrites Itself, and OpenAI's Private Mode</title>
 <description><![CDATA[SpaceX 获批百万颗 AI 卫星、Claude 自己把 API 从 Python 迁到 Rust、OpenAI 试点更私密的推理。
 
